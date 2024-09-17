@@ -1,0 +1,4134 @@
+Car 1 movement history:
+  Time 1: Position in
+  Time 1: Position (3, 9)
+  Time 9: Position (3, 8)
+  Time 18: Position (3, 7)
+  Time 27: Position (3, 6)
+  Time 36: Position (3, 5)
+  Time 45: Position (3, 4)
+  Time 54: Position (3, 3)
+  Time 63: Position (3, 2)
+  Time 72: Position (3, 1)
+  Time 81: Position (3, 0)
+  Time 81: Position out
+Car 2 movement history:
+  Time 2: Position in
+  Time 8: Position (2, 9)
+  Time 9: Position (2, 8)
+  Time 18: Position (2, 7)
+  Time 27: Position (2, 6)
+  Time 36: Position (2, 5)
+  Time 45: Position (2, 4)
+  Time 54: Position (2, 3)
+  Time 63: Position (2, 2)
+  Time 72: Position (2, 1)
+  Time 81: Position (2, 0)
+  Time 87: Position out
+Car 3 movement history:
+  Time 8: Position in
+  Time 20: Position (1, 9)
+  Time 9: Position (1, 8)
+  Time 18: Position (1, 7)
+  Time 27: Position (1, 6)
+  Time 36: Position (1, 5)
+  Time 45: Position (1, 4)
+  Time 54: Position (1, 3)
+  Time 63: Position (1, 2)
+  Time 72: Position (1, 1)
+  Time 81: Position (1, 0)
+  Time 93: Position out
+Car 4 movement history:
+  Time 20: Position in
+  Time 20: Position (3, 9)
+  Time 27: Position (3, 8)
+  Time 36: Position (3, 7)
+  Time 45: Position (3, 6)
+  Time 54: Position (3, 5)
+  Time 63: Position (3, 4)
+  Time 72: Position (3, 3)
+  Time 81: Position (3, 2)
+  Time 90: Position (3, 1)
+  Time 99: Position (3, 0)
+  Time 99: Position out
+Car 5 movement history:
+  Time 21: Position in
+  Time 27: Position (2, 9)
+  Time 27: Position (2, 8)
+  Time 36: Position (2, 7)
+  Time 45: Position (2, 6)
+  Time 54: Position (2, 5)
+  Time 63: Position (2, 4)
+  Time 72: Position (2, 3)
+  Time 81: Position (2, 2)
+  Time 90: Position (2, 1)
+  Time 99: Position (2, 0)
+  Time 105: Position out
+Car 6 movement history:
+  Time 27: Position in
+  Time 27: Position (3, 9)
+  Time 36: Position (3, 8)
+  Time 45: Position (3, 7)
+  Time 54: Position (3, 6)
+  Time 63: Position (3, 5)
+  Time 72: Position (3, 4)
+  Time 81: Position (3, 3)
+  Time 90: Position (3, 2)
+  Time 99: Position (3, 1)
+  Time 108: Position (3, 0)
+  Time 108: Position out
+Car 7 movement history:
+  Time 28: Position in
+  Time 34: Position (2, 9)
+  Time 36: Position (2, 8)
+  Time 45: Position (2, 7)
+  Time 54: Position (2, 6)
+  Time 63: Position (2, 5)
+  Time 72: Position (2, 4)
+  Time 81: Position (2, 3)
+  Time 90: Position (2, 2)
+  Time 99: Position (2, 1)
+  Time 108: Position (2, 0)
+  Time 114: Position out
+Car 8 movement history:
+  Time 34: Position in
+  Time 46: Position (1, 9)
+  Time 36: Position (1, 8)
+  Time 45: Position (1, 7)
+  Time 54: Position (1, 6)
+  Time 63: Position (1, 5)
+  Time 72: Position (1, 4)
+  Time 81: Position (1, 3)
+  Time 90: Position (1, 2)
+  Time 99: Position (1, 1)
+  Time 108: Position (1, 0)
+  Time 120: Position out
+Car 9 movement history:
+  Time 46: Position in
+  Time 46: Position (3, 9)
+  Time 54: Position (3, 8)
+  Time 63: Position (3, 7)
+  Time 72: Position (3, 6)
+  Time 81: Position (3, 5)
+  Time 90: Position (3, 4)
+  Time 99: Position (3, 3)
+  Time 108: Position (3, 2)
+  Time 117: Position (3, 1)
+  Time 126: Position (3, 0)
+  Time 126: Position out
+Car 10 movement history:
+  Time 47: Position in
+  Time 53: Position (2, 9)
+  Time 54: Position (2, 8)
+  Time 63: Position (2, 7)
+  Time 72: Position (2, 6)
+  Time 81: Position (2, 5)
+  Time 90: Position (2, 4)
+  Time 99: Position (2, 3)
+  Time 108: Position (2, 2)
+  Time 117: Position (2, 1)
+  Time 126: Position (2, 0)
+  Time 132: Position out
+Car 11 movement history:
+  Time 53: Position in
+  Time 65: Position (1, 9)
+  Time 54: Position (1, 8)
+  Time 63: Position (1, 7)
+  Time 72: Position (1, 6)
+  Time 81: Position (1, 5)
+  Time 90: Position (1, 4)
+  Time 99: Position (1, 3)
+  Time 108: Position (1, 2)
+  Time 117: Position (1, 1)
+  Time 126: Position (1, 0)
+  Time 138: Position out
+Car 12 movement history:
+  Time 65: Position in
+  Time 65: Position (3, 9)
+  Time 72: Position (3, 8)
+  Time 81: Position (3, 7)
+  Time 90: Position (3, 6)
+  Time 99: Position (3, 5)
+  Time 108: Position (3, 4)
+  Time 117: Position (3, 3)
+  Time 126: Position (3, 2)
+  Time 135: Position (3, 1)
+  Time 144: Position (3, 0)
+  Time 144: Position out
+Car 13 movement history:
+  Time 66: Position in
+  Time 72: Position (2, 9)
+  Time 72: Position (2, 8)
+  Time 81: Position (2, 7)
+  Time 90: Position (2, 6)
+  Time 99: Position (2, 5)
+  Time 108: Position (2, 4)
+  Time 117: Position (2, 3)
+  Time 126: Position (2, 2)
+  Time 135: Position (2, 1)
+  Time 144: Position (2, 0)
+  Time 150: Position out
+Car 14 movement history:
+  Time 72: Position in
+  Time 72: Position (3, 9)
+  Time 81: Position (3, 8)
+  Time 90: Position (3, 7)
+  Time 99: Position (3, 6)
+  Time 108: Position (3, 5)
+  Time 117: Position (3, 4)
+  Time 126: Position (3, 3)
+  Time 135: Position (3, 2)
+  Time 144: Position (3, 1)
+  Time 153: Position (3, 0)
+  Time 153: Position out
+Car 15 movement history:
+  Time 73: Position in
+  Time 79: Position (2, 9)
+  Time 81: Position (2, 8)
+  Time 90: Position (2, 7)
+  Time 99: Position (2, 6)
+  Time 108: Position (2, 5)
+  Time 117: Position (2, 4)
+  Time 126: Position (2, 3)
+  Time 135: Position (2, 2)
+  Time 144: Position (2, 1)
+  Time 153: Position (2, 0)
+  Time 159: Position out
+Car 16 movement history:
+  Time 79: Position in
+  Time 91: Position (1, 9)
+  Time 81: Position (1, 8)
+  Time 90: Position (1, 7)
+  Time 99: Position (1, 6)
+  Time 108: Position (1, 5)
+  Time 117: Position (1, 4)
+  Time 126: Position (1, 3)
+  Time 135: Position (1, 2)
+  Time 144: Position (1, 1)
+  Time 153: Position (1, 0)
+  Time 165: Position out
+Car 17 movement history:
+  Time 91: Position in
+  Time 91: Position (3, 9)
+  Time 99: Position (3, 8)
+  Time 108: Position (3, 7)
+  Time 117: Position (3, 6)
+  Time 126: Position (3, 5)
+  Time 135: Position (3, 4)
+  Time 144: Position (3, 3)
+  Time 153: Position (3, 2)
+  Time 162: Position (3, 1)
+  Time 171: Position (3, 0)
+  Time 171: Position out
+Car 18 movement history:
+  Time 92: Position in
+  Time 98: Position (2, 9)
+  Time 99: Position (2, 8)
+  Time 108: Position (2, 7)
+  Time 117: Position (2, 6)
+  Time 126: Position (2, 5)
+  Time 135: Position (2, 4)
+  Time 144: Position (2, 3)
+  Time 153: Position (2, 2)
+  Time 162: Position (2, 1)
+  Time 171: Position (2, 0)
+  Time 177: Position out
+Car 19 movement history:
+  Time 98: Position in
+  Time 110: Position (1, 9)
+  Time 99: Position (1, 8)
+  Time 108: Position (1, 7)
+  Time 117: Position (1, 6)
+  Time 126: Position (1, 5)
+  Time 135: Position (1, 4)
+  Time 144: Position (1, 3)
+  Time 153: Position (1, 2)
+  Time 162: Position (1, 1)
+  Time 171: Position (1, 0)
+  Time 183: Position out
+Car 20 movement history:
+  Time 110: Position in
+  Time 110: Position (3, 9)
+  Time 117: Position (3, 8)
+  Time 126: Position (3, 7)
+  Time 135: Position (3, 6)
+  Time 144: Position (3, 5)
+  Time 153: Position (3, 4)
+  Time 162: Position (3, 3)
+  Time 171: Position (3, 2)
+  Time 180: Position (3, 1)
+  Time 189: Position (3, 0)
+  Time 189: Position out
+Car 21 movement history:
+  Time 111: Position in
+  Time 117: Position (2, 9)
+  Time 117: Position (2, 8)
+  Time 126: Position (2, 7)
+  Time 135: Position (2, 6)
+  Time 144: Position (2, 5)
+  Time 153: Position (2, 4)
+  Time 162: Position (2, 3)
+  Time 171: Position (2, 2)
+  Time 180: Position (2, 1)
+  Time 189: Position (2, 0)
+  Time 195: Position out
+Car 22 movement history:
+  Time 117: Position in
+  Time 117: Position (3, 9)
+  Time 126: Position (3, 8)
+  Time 135: Position (3, 7)
+  Time 144: Position (3, 6)
+  Time 153: Position (3, 5)
+  Time 162: Position (3, 4)
+  Time 171: Position (3, 3)
+  Time 180: Position (3, 2)
+  Time 189: Position (3, 1)
+  Time 198: Position (3, 0)
+  Time 198: Position out
+Car 23 movement history:
+  Time 118: Position in
+  Time 124: Position (2, 9)
+  Time 126: Position (2, 8)
+  Time 135: Position (2, 7)
+  Time 144: Position (2, 6)
+  Time 153: Position (2, 5)
+  Time 162: Position (2, 4)
+  Time 171: Position (2, 3)
+  Time 180: Position (2, 2)
+  Time 189: Position (2, 1)
+  Time 198: Position (2, 0)
+  Time 204: Position out
+Car 24 movement history:
+  Time 124: Position in
+  Time 136: Position (1, 9)
+  Time 126: Position (1, 8)
+  Time 135: Position (1, 7)
+  Time 144: Position (1, 6)
+  Time 153: Position (1, 5)
+  Time 162: Position (1, 4)
+  Time 171: Position (1, 3)
+  Time 180: Position (1, 2)
+  Time 189: Position (1, 1)
+  Time 198: Position (1, 0)
+  Time 210: Position out
+Car 25 movement history:
+  Time 136: Position in
+  Time 136: Position (3, 9)
+  Time 144: Position (3, 8)
+  Time 153: Position (3, 7)
+  Time 162: Position (3, 6)
+  Time 171: Position (3, 5)
+  Time 180: Position (3, 4)
+  Time 189: Position (3, 3)
+  Time 198: Position (3, 2)
+  Time 207: Position (3, 1)
+  Time 216: Position (3, 0)
+  Time 216: Position out
+Car 26 movement history:
+  Time 137: Position in
+  Time 143: Position (2, 9)
+  Time 144: Position (2, 8)
+  Time 153: Position (2, 7)
+  Time 162: Position (2, 6)
+  Time 171: Position (2, 5)
+  Time 180: Position (2, 4)
+  Time 189: Position (2, 3)
+  Time 198: Position (2, 2)
+  Time 207: Position (2, 1)
+  Time 216: Position (2, 0)
+  Time 222: Position out
+Car 27 movement history:
+  Time 143: Position in
+  Time 155: Position (1, 9)
+  Time 144: Position (1, 8)
+  Time 153: Position (1, 7)
+  Time 162: Position (1, 6)
+  Time 171: Position (1, 5)
+  Time 180: Position (1, 4)
+  Time 189: Position (1, 3)
+  Time 198: Position (1, 2)
+  Time 207: Position (1, 1)
+  Time 216: Position (1, 0)
+  Time 228: Position out
+Car 28 movement history:
+  Time 155: Position in
+  Time 155: Position (3, 9)
+  Time 162: Position (3, 8)
+  Time 171: Position (3, 7)
+  Time 180: Position (3, 6)
+  Time 189: Position (3, 5)
+  Time 198: Position (3, 4)
+  Time 207: Position (3, 3)
+  Time 216: Position (3, 2)
+  Time 225: Position (3, 1)
+  Time 234: Position (3, 0)
+  Time 234: Position out
+Car 29 movement history:
+  Time 156: Position in
+  Time 162: Position (2, 9)
+  Time 162: Position (2, 8)
+  Time 171: Position (2, 7)
+  Time 180: Position (2, 6)
+  Time 189: Position (2, 5)
+  Time 198: Position (2, 4)
+  Time 207: Position (2, 3)
+  Time 216: Position (2, 2)
+  Time 225: Position (2, 1)
+  Time 234: Position (2, 0)
+  Time 240: Position out
+Car 30 movement history:
+  Time 162: Position in
+  Time 162: Position (3, 9)
+  Time 171: Position (3, 8)
+  Time 180: Position (3, 7)
+  Time 189: Position (3, 6)
+  Time 198: Position (3, 5)
+  Time 207: Position (3, 4)
+  Time 216: Position (3, 3)
+  Time 225: Position (3, 2)
+  Time 234: Position (3, 1)
+  Time 243: Position (3, 0)
+  Time 243: Position out
+Car 31 movement history:
+  Time 163: Position in
+  Time 169: Position (2, 9)
+  Time 171: Position (2, 8)
+  Time 180: Position (2, 7)
+  Time 189: Position (2, 6)
+  Time 198: Position (2, 5)
+  Time 207: Position (2, 4)
+  Time 216: Position (2, 3)
+  Time 225: Position (2, 2)
+  Time 234: Position (2, 1)
+  Time 243: Position (2, 0)
+  Time 249: Position out
+Car 32 movement history:
+  Time 169: Position in
+  Time 181: Position (1, 9)
+  Time 171: Position (1, 8)
+  Time 180: Position (1, 7)
+  Time 189: Position (1, 6)
+  Time 198: Position (1, 5)
+  Time 207: Position (1, 4)
+  Time 216: Position (1, 3)
+  Time 225: Position (1, 2)
+  Time 234: Position (1, 1)
+  Time 243: Position (1, 0)
+  Time 255: Position out
+Car 33 movement history:
+  Time 181: Position in
+  Time 181: Position (3, 9)
+  Time 189: Position (3, 8)
+  Time 198: Position (3, 7)
+  Time 207: Position (3, 6)
+  Time 216: Position (3, 5)
+  Time 225: Position (3, 4)
+  Time 234: Position (3, 3)
+  Time 243: Position (3, 2)
+  Time 252: Position (3, 1)
+  Time 261: Position (3, 0)
+  Time 261: Position out
+Car 34 movement history:
+  Time 182: Position in
+  Time 188: Position (2, 9)
+  Time 189: Position (2, 8)
+  Time 198: Position (2, 7)
+  Time 207: Position (2, 6)
+  Time 216: Position (2, 5)
+  Time 225: Position (2, 4)
+  Time 234: Position (2, 3)
+  Time 243: Position (2, 2)
+  Time 252: Position (2, 1)
+  Time 261: Position (2, 0)
+  Time 267: Position out
+Car 35 movement history:
+  Time 188: Position in
+  Time 200: Position (1, 9)
+  Time 189: Position (1, 8)
+  Time 198: Position (1, 7)
+  Time 207: Position (1, 6)
+  Time 216: Position (1, 5)
+  Time 225: Position (1, 4)
+  Time 234: Position (1, 3)
+  Time 243: Position (1, 2)
+  Time 252: Position (1, 1)
+  Time 261: Position (1, 0)
+  Time 273: Position out
+Car 36 movement history:
+  Time 200: Position in
+  Time 200: Position (3, 9)
+  Time 207: Position (3, 8)
+  Time 216: Position (3, 7)
+  Time 225: Position (3, 6)
+  Time 234: Position (3, 5)
+  Time 243: Position (3, 4)
+  Time 252: Position (3, 3)
+  Time 261: Position (3, 2)
+  Time 270: Position (3, 1)
+  Time 279: Position (3, 0)
+  Time 279: Position out
+Car 37 movement history:
+  Time 201: Position in
+  Time 207: Position (2, 9)
+  Time 207: Position (2, 8)
+  Time 216: Position (2, 7)
+  Time 225: Position (2, 6)
+  Time 234: Position (2, 5)
+  Time 243: Position (2, 4)
+  Time 252: Position (2, 3)
+  Time 261: Position (2, 2)
+  Time 270: Position (2, 1)
+  Time 279: Position (2, 0)
+  Time 285: Position out
+Car 38 movement history:
+  Time 207: Position in
+  Time 207: Position (3, 9)
+  Time 216: Position (3, 8)
+  Time 225: Position (3, 7)
+  Time 234: Position (3, 6)
+  Time 243: Position (3, 5)
+  Time 252: Position (3, 4)
+  Time 261: Position (3, 3)
+  Time 270: Position (3, 2)
+  Time 279: Position (3, 1)
+  Time 288: Position (3, 0)
+  Time 288: Position out
+Car 39 movement history:
+  Time 208: Position in
+  Time 214: Position (2, 9)
+  Time 216: Position (2, 8)
+  Time 225: Position (2, 7)
+  Time 234: Position (2, 6)
+  Time 243: Position (2, 5)
+  Time 252: Position (2, 4)
+  Time 261: Position (2, 3)
+  Time 270: Position (2, 2)
+  Time 279: Position (2, 1)
+  Time 288: Position (2, 0)
+  Time 294: Position out
+Car 40 movement history:
+  Time 214: Position in
+  Time 226: Position (1, 9)
+  Time 216: Position (1, 8)
+  Time 225: Position (1, 7)
+  Time 234: Position (1, 6)
+  Time 243: Position (1, 5)
+  Time 252: Position (1, 4)
+  Time 261: Position (1, 3)
+  Time 270: Position (1, 2)
+  Time 279: Position (1, 1)
+  Time 288: Position (1, 0)
+  Time 300: Position out
+Car 41 movement history:
+  Time 226: Position in
+  Time 226: Position (3, 9)
+  Time 234: Position (3, 8)
+  Time 243: Position (3, 7)
+  Time 252: Position (3, 6)
+  Time 261: Position (3, 5)
+  Time 270: Position (3, 4)
+  Time 279: Position (3, 3)
+  Time 288: Position (3, 2)
+  Time 297: Position (3, 1)
+  Time 306: Position (3, 0)
+  Time 306: Position out
+Car 42 movement history:
+  Time 227: Position in
+  Time 233: Position (2, 9)
+  Time 234: Position (2, 8)
+  Time 243: Position (2, 7)
+  Time 252: Position (2, 6)
+  Time 261: Position (2, 5)
+  Time 270: Position (2, 4)
+  Time 279: Position (2, 3)
+  Time 288: Position (2, 2)
+  Time 297: Position (2, 1)
+  Time 306: Position (2, 0)
+  Time 312: Position out
+Car 43 movement history:
+  Time 233: Position in
+  Time 245: Position (1, 9)
+  Time 234: Position (1, 8)
+  Time 243: Position (1, 7)
+  Time 252: Position (1, 6)
+  Time 261: Position (1, 5)
+  Time 270: Position (1, 4)
+  Time 279: Position (1, 3)
+  Time 288: Position (1, 2)
+  Time 297: Position (1, 1)
+  Time 306: Position (1, 0)
+  Time 318: Position out
+Car 44 movement history:
+  Time 245: Position in
+  Time 245: Position (3, 9)
+  Time 252: Position (3, 8)
+  Time 261: Position (3, 7)
+  Time 270: Position (3, 6)
+  Time 279: Position (3, 5)
+  Time 288: Position (3, 4)
+  Time 297: Position (3, 3)
+  Time 306: Position (3, 2)
+  Time 315: Position (3, 1)
+  Time 324: Position (3, 0)
+  Time 324: Position out
+Car 45 movement history:
+  Time 246: Position in
+  Time 252: Position (2, 9)
+  Time 252: Position (2, 8)
+  Time 261: Position (2, 7)
+  Time 270: Position (2, 6)
+  Time 279: Position (2, 5)
+  Time 288: Position (2, 4)
+  Time 297: Position (2, 3)
+  Time 306: Position (2, 2)
+  Time 315: Position (2, 1)
+  Time 324: Position (2, 0)
+  Time 330: Position out
+Car 46 movement history:
+  Time 252: Position in
+  Time 252: Position (3, 9)
+  Time 261: Position (3, 8)
+  Time 270: Position (3, 7)
+  Time 279: Position (3, 6)
+  Time 288: Position (3, 5)
+  Time 297: Position (3, 4)
+  Time 306: Position (3, 3)
+  Time 315: Position (3, 2)
+  Time 324: Position (3, 1)
+  Time 333: Position (3, 0)
+  Time 333: Position out
+Car 47 movement history:
+  Time 253: Position in
+  Time 259: Position (2, 9)
+  Time 261: Position (2, 8)
+  Time 270: Position (2, 7)
+  Time 279: Position (2, 6)
+  Time 288: Position (2, 5)
+  Time 297: Position (2, 4)
+  Time 306: Position (2, 3)
+  Time 315: Position (2, 2)
+  Time 324: Position (2, 1)
+  Time 333: Position (2, 0)
+  Time 339: Position out
+Car 48 movement history:
+  Time 259: Position in
+  Time 271: Position (1, 9)
+  Time 261: Position (1, 8)
+  Time 270: Position (1, 7)
+  Time 279: Position (1, 6)
+  Time 288: Position (1, 5)
+  Time 297: Position (1, 4)
+  Time 306: Position (1, 3)
+  Time 315: Position (1, 2)
+  Time 324: Position (1, 1)
+  Time 333: Position (1, 0)
+  Time 345: Position out
+Car 49 movement history:
+  Time 271: Position in
+  Time 271: Position (3, 9)
+  Time 279: Position (3, 8)
+  Time 288: Position (3, 7)
+  Time 297: Position (3, 6)
+  Time 306: Position (3, 5)
+  Time 315: Position (3, 4)
+  Time 324: Position (3, 3)
+  Time 333: Position (3, 2)
+  Time 342: Position (3, 1)
+  Time 351: Position (3, 0)
+  Time 351: Position out
+Car 50 movement history:
+  Time 272: Position in
+  Time 278: Position (2, 9)
+  Time 279: Position (2, 8)
+  Time 288: Position (2, 7)
+  Time 297: Position (2, 6)
+  Time 306: Position (2, 5)
+  Time 315: Position (2, 4)
+  Time 324: Position (2, 3)
+  Time 333: Position (2, 2)
+  Time 342: Position (2, 1)
+  Time 351: Position (2, 0)
+  Time 357: Position out
+Car 51 movement history:
+  Time 278: Position in
+  Time 290: Position (1, 9)
+  Time 279: Position (1, 8)
+  Time 288: Position (1, 7)
+  Time 297: Position (1, 6)
+  Time 306: Position (1, 5)
+  Time 315: Position (1, 4)
+  Time 324: Position (1, 3)
+  Time 333: Position (1, 2)
+  Time 342: Position (1, 1)
+  Time 351: Position (1, 0)
+  Time 363: Position out
+Car 52 movement history:
+  Time 290: Position in
+  Time 290: Position (3, 9)
+  Time 297: Position (3, 8)
+  Time 306: Position (3, 7)
+  Time 315: Position (3, 6)
+  Time 324: Position (3, 5)
+  Time 333: Position (3, 4)
+  Time 342: Position (3, 3)
+  Time 351: Position (3, 2)
+  Time 360: Position (3, 1)
+  Time 369: Position (3, 0)
+  Time 369: Position out
+Car 53 movement history:
+  Time 291: Position in
+  Time 297: Position (2, 9)
+  Time 297: Position (2, 8)
+  Time 306: Position (2, 7)
+  Time 315: Position (2, 6)
+  Time 324: Position (2, 5)
+  Time 333: Position (2, 4)
+  Time 342: Position (2, 3)
+  Time 351: Position (2, 2)
+  Time 360: Position (2, 1)
+  Time 369: Position (2, 0)
+  Time 375: Position out
+Car 54 movement history:
+  Time 297: Position in
+  Time 297: Position (3, 9)
+  Time 306: Position (3, 8)
+  Time 315: Position (3, 7)
+  Time 324: Position (3, 6)
+  Time 333: Position (3, 5)
+  Time 342: Position (3, 4)
+  Time 351: Position (3, 3)
+  Time 360: Position (3, 2)
+  Time 369: Position (3, 1)
+  Time 378: Position (3, 0)
+  Time 378: Position out
+Car 55 movement history:
+  Time 298: Position in
+  Time 304: Position (2, 9)
+  Time 306: Position (2, 8)
+  Time 315: Position (2, 7)
+  Time 324: Position (2, 6)
+  Time 333: Position (2, 5)
+  Time 342: Position (2, 4)
+  Time 351: Position (2, 3)
+  Time 360: Position (2, 2)
+  Time 369: Position (2, 1)
+  Time 378: Position (2, 0)
+  Time 384: Position out
+Car 56 movement history:
+  Time 304: Position in
+  Time 316: Position (1, 9)
+  Time 306: Position (1, 8)
+  Time 315: Position (1, 7)
+  Time 324: Position (1, 6)
+  Time 333: Position (1, 5)
+  Time 342: Position (1, 4)
+  Time 351: Position (1, 3)
+  Time 360: Position (1, 2)
+  Time 369: Position (1, 1)
+  Time 378: Position (1, 0)
+  Time 390: Position out
+Car 57 movement history:
+  Time 316: Position in
+  Time 316: Position (3, 9)
+  Time 324: Position (3, 8)
+  Time 333: Position (3, 7)
+  Time 342: Position (3, 6)
+  Time 351: Position (3, 5)
+  Time 360: Position (3, 4)
+  Time 369: Position (3, 3)
+  Time 378: Position (3, 2)
+  Time 387: Position (3, 1)
+  Time 396: Position (3, 0)
+  Time 396: Position out
+Car 58 movement history:
+  Time 317: Position in
+  Time 323: Position (2, 9)
+  Time 324: Position (2, 8)
+  Time 333: Position (2, 7)
+  Time 342: Position (2, 6)
+  Time 351: Position (2, 5)
+  Time 360: Position (2, 4)
+  Time 369: Position (2, 3)
+  Time 378: Position (2, 2)
+  Time 387: Position (2, 1)
+  Time 396: Position (2, 0)
+  Time 402: Position out
+Car 59 movement history:
+  Time 323: Position in
+  Time 335: Position (1, 9)
+  Time 324: Position (1, 8)
+  Time 333: Position (1, 7)
+  Time 342: Position (1, 6)
+  Time 351: Position (1, 5)
+  Time 360: Position (1, 4)
+  Time 369: Position (1, 3)
+  Time 378: Position (1, 2)
+  Time 387: Position (1, 1)
+  Time 396: Position (1, 0)
+  Time 408: Position out
+Car 60 movement history:
+  Time 335: Position in
+  Time 335: Position (3, 9)
+  Time 342: Position (3, 8)
+  Time 351: Position (3, 7)
+  Time 360: Position (3, 6)
+  Time 369: Position (3, 5)
+  Time 378: Position (3, 4)
+  Time 387: Position (3, 3)
+  Time 396: Position (3, 2)
+  Time 405: Position (3, 1)
+  Time 414: Position (3, 0)
+  Time 414: Position out
+Car 61 movement history:
+  Time 336: Position in
+  Time 342: Position (2, 9)
+  Time 342: Position (2, 8)
+  Time 351: Position (2, 7)
+  Time 360: Position (2, 6)
+  Time 369: Position (2, 5)
+  Time 378: Position (2, 4)
+  Time 387: Position (2, 3)
+  Time 396: Position (2, 2)
+  Time 405: Position (2, 1)
+  Time 414: Position (2, 0)
+  Time 420: Position out
+Car 62 movement history:
+  Time 342: Position in
+  Time 342: Position (3, 9)
+  Time 351: Position (3, 8)
+  Time 360: Position (3, 7)
+  Time 369: Position (3, 6)
+  Time 378: Position (3, 5)
+  Time 387: Position (3, 4)
+  Time 396: Position (3, 3)
+  Time 405: Position (3, 2)
+  Time 414: Position (3, 1)
+  Time 423: Position (3, 0)
+  Time 423: Position out
+Car 63 movement history:
+  Time 343: Position in
+  Time 349: Position (2, 9)
+  Time 351: Position (2, 8)
+  Time 360: Position (2, 7)
+  Time 369: Position (2, 6)
+  Time 378: Position (2, 5)
+  Time 387: Position (2, 4)
+  Time 396: Position (2, 3)
+  Time 405: Position (2, 2)
+  Time 414: Position (2, 1)
+  Time 423: Position (2, 0)
+  Time 429: Position out
+Car 64 movement history:
+  Time 349: Position in
+  Time 361: Position (1, 9)
+  Time 351: Position (1, 8)
+  Time 360: Position (1, 7)
+  Time 369: Position (1, 6)
+  Time 378: Position (1, 5)
+  Time 387: Position (1, 4)
+  Time 396: Position (1, 3)
+  Time 405: Position (1, 2)
+  Time 414: Position (1, 1)
+  Time 423: Position (1, 0)
+  Time 435: Position out
+Car 65 movement history:
+  Time 361: Position in
+  Time 361: Position (3, 9)
+  Time 369: Position (3, 8)
+  Time 378: Position (3, 7)
+  Time 387: Position (3, 6)
+  Time 396: Position (3, 5)
+  Time 405: Position (3, 4)
+  Time 414: Position (3, 3)
+  Time 423: Position (3, 2)
+  Time 432: Position (3, 1)
+  Time 441: Position (3, 0)
+  Time 441: Position out
+Car 66 movement history:
+  Time 362: Position in
+  Time 368: Position (2, 9)
+  Time 369: Position (2, 8)
+  Time 378: Position (2, 7)
+  Time 387: Position (2, 6)
+  Time 396: Position (2, 5)
+  Time 405: Position (2, 4)
+  Time 414: Position (2, 3)
+  Time 423: Position (2, 2)
+  Time 432: Position (2, 1)
+  Time 441: Position (2, 0)
+  Time 447: Position out
+Car 67 movement history:
+  Time 368: Position in
+  Time 380: Position (1, 9)
+  Time 369: Position (1, 8)
+  Time 378: Position (1, 7)
+  Time 387: Position (1, 6)
+  Time 396: Position (1, 5)
+  Time 405: Position (1, 4)
+  Time 414: Position (1, 3)
+  Time 423: Position (1, 2)
+  Time 432: Position (1, 1)
+  Time 441: Position (1, 0)
+  Time 453: Position out
+Car 68 movement history:
+  Time 380: Position in
+  Time 380: Position (3, 9)
+  Time 387: Position (3, 8)
+  Time 396: Position (3, 7)
+  Time 405: Position (3, 6)
+  Time 414: Position (3, 5)
+  Time 423: Position (3, 4)
+  Time 432: Position (3, 3)
+  Time 441: Position (3, 2)
+  Time 450: Position (3, 1)
+  Time 459: Position (3, 0)
+  Time 459: Position out
+Car 69 movement history:
+  Time 381: Position in
+  Time 387: Position (2, 9)
+  Time 387: Position (2, 8)
+  Time 396: Position (2, 7)
+  Time 405: Position (2, 6)
+  Time 414: Position (2, 5)
+  Time 423: Position (2, 4)
+  Time 432: Position (2, 3)
+  Time 441: Position (2, 2)
+  Time 450: Position (2, 1)
+  Time 459: Position (2, 0)
+  Time 465: Position out
+Car 70 movement history:
+  Time 387: Position in
+  Time 387: Position (3, 9)
+  Time 396: Position (3, 8)
+  Time 405: Position (3, 7)
+  Time 414: Position (3, 6)
+  Time 423: Position (3, 5)
+  Time 432: Position (3, 4)
+  Time 441: Position (3, 3)
+  Time 450: Position (3, 2)
+  Time 459: Position (3, 1)
+  Time 468: Position (3, 0)
+  Time 468: Position out
+Car 71 movement history:
+  Time 388: Position in
+  Time 394: Position (2, 9)
+  Time 396: Position (2, 8)
+  Time 405: Position (2, 7)
+  Time 414: Position (2, 6)
+  Time 423: Position (2, 5)
+  Time 432: Position (2, 4)
+  Time 441: Position (2, 3)
+  Time 450: Position (2, 2)
+  Time 459: Position (2, 1)
+  Time 468: Position (2, 0)
+  Time 474: Position out
+Car 72 movement history:
+  Time 394: Position in
+  Time 406: Position (1, 9)
+  Time 396: Position (1, 8)
+  Time 405: Position (1, 7)
+  Time 414: Position (1, 6)
+  Time 423: Position (1, 5)
+  Time 432: Position (1, 4)
+  Time 441: Position (1, 3)
+  Time 450: Position (1, 2)
+  Time 459: Position (1, 1)
+  Time 468: Position (1, 0)
+  Time 480: Position out
+Car 73 movement history:
+  Time 406: Position in
+  Time 406: Position (3, 9)
+  Time 414: Position (3, 8)
+  Time 423: Position (3, 7)
+  Time 432: Position (3, 6)
+  Time 441: Position (3, 5)
+  Time 450: Position (3, 4)
+  Time 459: Position (3, 3)
+  Time 468: Position (3, 2)
+  Time 477: Position (3, 1)
+  Time 486: Position (3, 0)
+  Time 486: Position out
+Car 74 movement history:
+  Time 407: Position in
+  Time 413: Position (2, 9)
+  Time 414: Position (2, 8)
+  Time 423: Position (2, 7)
+  Time 432: Position (2, 6)
+  Time 441: Position (2, 5)
+  Time 450: Position (2, 4)
+  Time 459: Position (2, 3)
+  Time 468: Position (2, 2)
+  Time 477: Position (2, 1)
+  Time 486: Position (2, 0)
+  Time 492: Position out
+Car 75 movement history:
+  Time 413: Position in
+  Time 425: Position (1, 9)
+  Time 414: Position (1, 8)
+  Time 423: Position (1, 7)
+  Time 432: Position (1, 6)
+  Time 441: Position (1, 5)
+  Time 450: Position (1, 4)
+  Time 459: Position (1, 3)
+  Time 468: Position (1, 2)
+  Time 477: Position (1, 1)
+  Time 486: Position (1, 0)
+  Time 498: Position out
+Car 76 movement history:
+  Time 425: Position in
+  Time 425: Position (3, 9)
+  Time 432: Position (3, 8)
+  Time 441: Position (3, 7)
+  Time 450: Position (3, 6)
+  Time 459: Position (3, 5)
+  Time 468: Position (3, 4)
+  Time 477: Position (3, 3)
+  Time 486: Position (3, 2)
+  Time 495: Position (3, 1)
+  Time 504: Position (3, 0)
+  Time 504: Position out
+Car 77 movement history:
+  Time 426: Position in
+  Time 432: Position (2, 9)
+  Time 432: Position (2, 8)
+  Time 441: Position (2, 7)
+  Time 450: Position (2, 6)
+  Time 459: Position (2, 5)
+  Time 468: Position (2, 4)
+  Time 477: Position (2, 3)
+  Time 486: Position (2, 2)
+  Time 495: Position (2, 1)
+  Time 504: Position (2, 0)
+  Time 510: Position out
+Car 78 movement history:
+  Time 432: Position in
+  Time 432: Position (3, 9)
+  Time 441: Position (3, 8)
+  Time 450: Position (3, 7)
+  Time 459: Position (3, 6)
+  Time 468: Position (3, 5)
+  Time 477: Position (3, 4)
+  Time 486: Position (3, 3)
+  Time 495: Position (3, 2)
+  Time 504: Position (3, 1)
+  Time 513: Position (3, 0)
+  Time 513: Position out
+Car 79 movement history:
+  Time 433: Position in
+  Time 439: Position (2, 9)
+  Time 441: Position (2, 8)
+  Time 450: Position (2, 7)
+  Time 459: Position (2, 6)
+  Time 468: Position (2, 5)
+  Time 477: Position (2, 4)
+  Time 486: Position (2, 3)
+  Time 495: Position (2, 2)
+  Time 504: Position (2, 1)
+  Time 513: Position (2, 0)
+  Time 519: Position out
+Car 80 movement history:
+  Time 439: Position in
+  Time 451: Position (1, 9)
+  Time 441: Position (1, 8)
+  Time 450: Position (1, 7)
+  Time 459: Position (1, 6)
+  Time 468: Position (1, 5)
+  Time 477: Position (1, 4)
+  Time 486: Position (1, 3)
+  Time 495: Position (1, 2)
+  Time 504: Position (1, 1)
+  Time 513: Position (1, 0)
+  Time 525: Position out
+Car 81 movement history:
+  Time 451: Position in
+  Time 451: Position (3, 9)
+  Time 459: Position (3, 8)
+  Time 468: Position (3, 7)
+  Time 477: Position (3, 6)
+  Time 486: Position (3, 5)
+  Time 495: Position (3, 4)
+  Time 504: Position (3, 3)
+  Time 513: Position (3, 2)
+  Time 522: Position (3, 1)
+  Time 531: Position (3, 0)
+  Time 531: Position out
+Car 82 movement history:
+  Time 452: Position in
+  Time 458: Position (2, 9)
+  Time 459: Position (2, 8)
+  Time 468: Position (2, 7)
+  Time 477: Position (2, 6)
+  Time 486: Position (2, 5)
+  Time 495: Position (2, 4)
+  Time 504: Position (2, 3)
+  Time 513: Position (2, 2)
+  Time 522: Position (2, 1)
+  Time 531: Position (2, 0)
+  Time 537: Position out
+Car 83 movement history:
+  Time 458: Position in
+  Time 470: Position (1, 9)
+  Time 459: Position (1, 8)
+  Time 468: Position (1, 7)
+  Time 477: Position (1, 6)
+  Time 486: Position (1, 5)
+  Time 495: Position (1, 4)
+  Time 504: Position (1, 3)
+  Time 513: Position (1, 2)
+  Time 522: Position (1, 1)
+  Time 531: Position (1, 0)
+  Time 543: Position out
+Car 84 movement history:
+  Time 470: Position in
+  Time 470: Position (3, 9)
+  Time 477: Position (3, 8)
+  Time 486: Position (3, 7)
+  Time 495: Position (3, 6)
+  Time 504: Position (3, 5)
+  Time 513: Position (3, 4)
+  Time 522: Position (3, 3)
+  Time 531: Position (3, 2)
+  Time 540: Position (3, 1)
+  Time 549: Position (3, 0)
+  Time 549: Position out
+Car 85 movement history:
+  Time 471: Position in
+  Time 477: Position (2, 9)
+  Time 477: Position (2, 8)
+  Time 486: Position (2, 7)
+  Time 495: Position (2, 6)
+  Time 504: Position (2, 5)
+  Time 513: Position (2, 4)
+  Time 522: Position (2, 3)
+  Time 531: Position (2, 2)
+  Time 540: Position (2, 1)
+  Time 549: Position (2, 0)
+  Time 555: Position out
+Car 86 movement history:
+  Time 477: Position in
+  Time 477: Position (3, 9)
+  Time 486: Position (3, 8)
+  Time 495: Position (3, 7)
+  Time 504: Position (3, 6)
+  Time 513: Position (3, 5)
+  Time 522: Position (3, 4)
+  Time 531: Position (3, 3)
+  Time 540: Position (3, 2)
+  Time 549: Position (3, 1)
+  Time 558: Position (3, 0)
+  Time 558: Position out
+Car 87 movement history:
+  Time 478: Position in
+  Time 484: Position (2, 9)
+  Time 486: Position (2, 8)
+  Time 495: Position (2, 7)
+  Time 504: Position (2, 6)
+  Time 513: Position (2, 5)
+  Time 522: Position (2, 4)
+  Time 531: Position (2, 3)
+  Time 540: Position (2, 2)
+  Time 549: Position (2, 1)
+  Time 558: Position (2, 0)
+  Time 564: Position out
+Car 88 movement history:
+  Time 484: Position in
+  Time 496: Position (1, 9)
+  Time 486: Position (1, 8)
+  Time 495: Position (1, 7)
+  Time 504: Position (1, 6)
+  Time 513: Position (1, 5)
+  Time 522: Position (1, 4)
+  Time 531: Position (1, 3)
+  Time 540: Position (1, 2)
+  Time 549: Position (1, 1)
+  Time 558: Position (1, 0)
+  Time 570: Position out
+Car 89 movement history:
+  Time 496: Position in
+  Time 496: Position (3, 9)
+  Time 504: Position (3, 8)
+  Time 513: Position (3, 7)
+  Time 522: Position (3, 6)
+  Time 531: Position (3, 5)
+  Time 540: Position (3, 4)
+  Time 549: Position (3, 3)
+  Time 558: Position (3, 2)
+  Time 567: Position (3, 1)
+  Time 576: Position (3, 0)
+  Time 576: Position out
+Car 90 movement history:
+  Time 497: Position in
+  Time 503: Position (2, 9)
+  Time 504: Position (2, 8)
+  Time 513: Position (2, 7)
+  Time 522: Position (2, 6)
+  Time 531: Position (2, 5)
+  Time 540: Position (2, 4)
+  Time 549: Position (2, 3)
+  Time 558: Position (2, 2)
+  Time 567: Position (2, 1)
+  Time 576: Position (2, 0)
+  Time 582: Position out
+Car 91 movement history:
+  Time 503: Position in
+  Time 515: Position (1, 9)
+  Time 504: Position (1, 8)
+  Time 513: Position (1, 7)
+  Time 522: Position (1, 6)
+  Time 531: Position (1, 5)
+  Time 540: Position (1, 4)
+  Time 549: Position (1, 3)
+  Time 558: Position (1, 2)
+  Time 567: Position (1, 1)
+  Time 576: Position (1, 0)
+  Time 588: Position out
+Car 92 movement history:
+  Time 515: Position in
+  Time 515: Position (3, 9)
+  Time 522: Position (3, 8)
+  Time 531: Position (3, 7)
+  Time 540: Position (3, 6)
+  Time 549: Position (3, 5)
+  Time 558: Position (3, 4)
+  Time 567: Position (3, 3)
+  Time 576: Position (3, 2)
+  Time 585: Position (3, 1)
+  Time 594: Position (3, 0)
+  Time 594: Position out
+Car 93 movement history:
+  Time 516: Position in
+  Time 522: Position (2, 9)
+  Time 522: Position (2, 8)
+  Time 531: Position (2, 7)
+  Time 540: Position (2, 6)
+  Time 549: Position (2, 5)
+  Time 558: Position (2, 4)
+  Time 567: Position (2, 3)
+  Time 576: Position (2, 2)
+  Time 585: Position (2, 1)
+  Time 594: Position (2, 0)
+  Time 600: Position out
+Car 94 movement history:
+  Time 522: Position in
+  Time 522: Position (3, 9)
+  Time 531: Position (3, 8)
+  Time 540: Position (3, 7)
+  Time 549: Position (3, 6)
+  Time 558: Position (3, 5)
+  Time 567: Position (3, 4)
+  Time 576: Position (3, 3)
+  Time 585: Position (3, 2)
+  Time 594: Position (3, 1)
+  Time 603: Position (3, 0)
+  Time 603: Position out
+Car 95 movement history:
+  Time 523: Position in
+  Time 529: Position (2, 9)
+  Time 531: Position (2, 8)
+  Time 540: Position (2, 7)
+  Time 549: Position (2, 6)
+  Time 558: Position (2, 5)
+  Time 567: Position (2, 4)
+  Time 576: Position (2, 3)
+  Time 585: Position (2, 2)
+  Time 594: Position (2, 1)
+  Time 603: Position (2, 0)
+  Time 609: Position out
+Car 96 movement history:
+  Time 529: Position in
+  Time 541: Position (1, 9)
+  Time 531: Position (1, 8)
+  Time 540: Position (1, 7)
+  Time 549: Position (1, 6)
+  Time 558: Position (1, 5)
+  Time 567: Position (1, 4)
+  Time 576: Position (1, 3)
+  Time 585: Position (1, 2)
+  Time 594: Position (1, 1)
+  Time 603: Position (1, 0)
+  Time 615: Position out
+Car 97 movement history:
+  Time 541: Position in
+  Time 541: Position (3, 9)
+  Time 549: Position (3, 8)
+  Time 558: Position (3, 7)
+  Time 567: Position (3, 6)
+  Time 576: Position (3, 5)
+  Time 585: Position (3, 4)
+  Time 594: Position (3, 3)
+  Time 603: Position (3, 2)
+  Time 612: Position (3, 1)
+  Time 621: Position (3, 0)
+  Time 621: Position out
+Car 98 movement history:
+  Time 542: Position in
+  Time 548: Position (2, 9)
+  Time 549: Position (2, 8)
+  Time 558: Position (2, 7)
+  Time 567: Position (2, 6)
+  Time 576: Position (2, 5)
+  Time 585: Position (2, 4)
+  Time 594: Position (2, 3)
+  Time 603: Position (2, 2)
+  Time 612: Position (2, 1)
+  Time 621: Position (2, 0)
+  Time 627: Position out
+Car 99 movement history:
+  Time 548: Position in
+  Time 560: Position (1, 9)
+  Time 549: Position (1, 8)
+  Time 558: Position (1, 7)
+  Time 567: Position (1, 6)
+  Time 576: Position (1, 5)
+  Time 585: Position (1, 4)
+  Time 594: Position (1, 3)
+  Time 603: Position (1, 2)
+  Time 612: Position (1, 1)
+  Time 621: Position (1, 0)
+  Time 633: Position out
+Car 100 movement history:
+  Time 560: Position in
+  Time 560: Position (3, 9)
+  Time 567: Position (3, 8)
+  Time 576: Position (3, 7)
+  Time 585: Position (3, 6)
+  Time 594: Position (3, 5)
+  Time 603: Position (3, 4)
+  Time 612: Position (3, 3)
+  Time 621: Position (3, 2)
+  Time 630: Position (3, 1)
+  Time 639: Position (3, 0)
+  Time 639: Position out
+Car 101 movement history:
+  Time 561: Position in
+  Time 567: Position (2, 9)
+  Time 567: Position (2, 8)
+  Time 576: Position (2, 7)
+  Time 585: Position (2, 6)
+  Time 594: Position (2, 5)
+  Time 603: Position (2, 4)
+  Time 612: Position (2, 3)
+  Time 621: Position (2, 2)
+  Time 630: Position (2, 1)
+  Time 639: Position (2, 0)
+  Time 645: Position out
+Car 102 movement history:
+  Time 567: Position in
+  Time 567: Position (3, 9)
+  Time 576: Position (3, 8)
+  Time 585: Position (3, 7)
+  Time 594: Position (3, 6)
+  Time 603: Position (3, 5)
+  Time 612: Position (3, 4)
+  Time 621: Position (3, 3)
+  Time 630: Position (3, 2)
+  Time 639: Position (3, 1)
+  Time 648: Position (3, 0)
+  Time 648: Position out
+Car 103 movement history:
+  Time 568: Position in
+  Time 574: Position (2, 9)
+  Time 576: Position (2, 8)
+  Time 585: Position (2, 7)
+  Time 594: Position (2, 6)
+  Time 603: Position (2, 5)
+  Time 612: Position (2, 4)
+  Time 621: Position (2, 3)
+  Time 630: Position (2, 2)
+  Time 639: Position (2, 1)
+  Time 648: Position (2, 0)
+  Time 654: Position out
+Car 104 movement history:
+  Time 574: Position in
+  Time 586: Position (1, 9)
+  Time 576: Position (1, 8)
+  Time 585: Position (1, 7)
+  Time 594: Position (1, 6)
+  Time 603: Position (1, 5)
+  Time 612: Position (1, 4)
+  Time 621: Position (1, 3)
+  Time 630: Position (1, 2)
+  Time 639: Position (1, 1)
+  Time 648: Position (1, 0)
+  Time 660: Position out
+Car 105 movement history:
+  Time 586: Position in
+  Time 586: Position (3, 9)
+  Time 594: Position (3, 8)
+  Time 603: Position (3, 7)
+  Time 612: Position (3, 6)
+  Time 621: Position (3, 5)
+  Time 630: Position (3, 4)
+  Time 639: Position (3, 3)
+  Time 648: Position (3, 2)
+  Time 657: Position (3, 1)
+  Time 666: Position (3, 0)
+  Time 666: Position out
+Car 106 movement history:
+  Time 587: Position in
+  Time 593: Position (2, 9)
+  Time 594: Position (2, 8)
+  Time 603: Position (2, 7)
+  Time 612: Position (2, 6)
+  Time 621: Position (2, 5)
+  Time 630: Position (2, 4)
+  Time 639: Position (2, 3)
+  Time 648: Position (2, 2)
+  Time 657: Position (2, 1)
+  Time 666: Position (2, 0)
+  Time 672: Position out
+Car 107 movement history:
+  Time 593: Position in
+  Time 605: Position (1, 9)
+  Time 594: Position (1, 8)
+  Time 603: Position (1, 7)
+  Time 612: Position (1, 6)
+  Time 621: Position (1, 5)
+  Time 630: Position (1, 4)
+  Time 639: Position (1, 3)
+  Time 648: Position (1, 2)
+  Time 657: Position (1, 1)
+  Time 666: Position (1, 0)
+  Time 678: Position out
+Car 108 movement history:
+  Time 605: Position in
+  Time 605: Position (3, 9)
+  Time 612: Position (3, 8)
+  Time 621: Position (3, 7)
+  Time 630: Position (3, 6)
+  Time 639: Position (3, 5)
+  Time 648: Position (3, 4)
+  Time 657: Position (3, 3)
+  Time 666: Position (3, 2)
+  Time 675: Position (3, 1)
+  Time 684: Position (3, 0)
+  Time 684: Position out
+Car 109 movement history:
+  Time 606: Position in
+  Time 612: Position (2, 9)
+  Time 612: Position (2, 8)
+  Time 621: Position (2, 7)
+  Time 630: Position (2, 6)
+  Time 639: Position (2, 5)
+  Time 648: Position (2, 4)
+  Time 657: Position (2, 3)
+  Time 666: Position (2, 2)
+  Time 675: Position (2, 1)
+  Time 684: Position (2, 0)
+  Time 690: Position out
+Car 110 movement history:
+  Time 612: Position in
+  Time 612: Position (3, 9)
+  Time 621: Position (3, 8)
+  Time 630: Position (3, 7)
+  Time 639: Position (3, 6)
+  Time 648: Position (3, 5)
+  Time 657: Position (3, 4)
+  Time 666: Position (3, 3)
+  Time 675: Position (3, 2)
+  Time 684: Position (3, 1)
+  Time 693: Position (3, 0)
+  Time 693: Position out
+Car 111 movement history:
+  Time 613: Position in
+  Time 619: Position (2, 9)
+  Time 621: Position (2, 8)
+  Time 630: Position (2, 7)
+  Time 639: Position (2, 6)
+  Time 648: Position (2, 5)
+  Time 657: Position (2, 4)
+  Time 666: Position (2, 3)
+  Time 675: Position (2, 2)
+  Time 684: Position (2, 1)
+  Time 693: Position (2, 0)
+  Time 699: Position out
+Car 112 movement history:
+  Time 619: Position in
+  Time 631: Position (1, 9)
+  Time 621: Position (1, 8)
+  Time 630: Position (1, 7)
+  Time 639: Position (1, 6)
+  Time 648: Position (1, 5)
+  Time 657: Position (1, 4)
+  Time 666: Position (1, 3)
+  Time 675: Position (1, 2)
+  Time 684: Position (1, 1)
+  Time 693: Position (1, 0)
+  Time 705: Position out
+Car 113 movement history:
+  Time 631: Position in
+  Time 631: Position (3, 9)
+  Time 639: Position (3, 8)
+  Time 648: Position (3, 7)
+  Time 657: Position (3, 6)
+  Time 666: Position (3, 5)
+  Time 675: Position (3, 4)
+  Time 684: Position (3, 3)
+  Time 693: Position (3, 2)
+  Time 702: Position (3, 1)
+  Time 711: Position (3, 0)
+  Time 711: Position out
+Car 114 movement history:
+  Time 632: Position in
+  Time 638: Position (2, 9)
+  Time 639: Position (2, 8)
+  Time 648: Position (2, 7)
+  Time 657: Position (2, 6)
+  Time 666: Position (2, 5)
+  Time 675: Position (2, 4)
+  Time 684: Position (2, 3)
+  Time 693: Position (2, 2)
+  Time 702: Position (2, 1)
+  Time 711: Position (2, 0)
+  Time 717: Position out
+Car 115 movement history:
+  Time 638: Position in
+  Time 650: Position (1, 9)
+  Time 639: Position (1, 8)
+  Time 648: Position (1, 7)
+  Time 657: Position (1, 6)
+  Time 666: Position (1, 5)
+  Time 675: Position (1, 4)
+  Time 684: Position (1, 3)
+  Time 693: Position (1, 2)
+  Time 702: Position (1, 1)
+  Time 711: Position (1, 0)
+  Time 723: Position out
+Car 116 movement history:
+  Time 650: Position in
+  Time 650: Position (3, 9)
+  Time 657: Position (3, 8)
+  Time 666: Position (3, 7)
+  Time 675: Position (3, 6)
+  Time 684: Position (3, 5)
+  Time 693: Position (3, 4)
+  Time 702: Position (3, 3)
+  Time 711: Position (3, 2)
+  Time 720: Position (3, 1)
+  Time 729: Position (3, 0)
+  Time 729: Position out
+Car 117 movement history:
+  Time 651: Position in
+  Time 657: Position (2, 9)
+  Time 657: Position (2, 8)
+  Time 666: Position (2, 7)
+  Time 675: Position (2, 6)
+  Time 684: Position (2, 5)
+  Time 693: Position (2, 4)
+  Time 702: Position (2, 3)
+  Time 711: Position (2, 2)
+  Time 720: Position (2, 1)
+  Time 729: Position (2, 0)
+  Time 735: Position out
+Car 118 movement history:
+  Time 657: Position in
+  Time 657: Position (3, 9)
+  Time 666: Position (3, 8)
+  Time 675: Position (3, 7)
+  Time 684: Position (3, 6)
+  Time 693: Position (3, 5)
+  Time 702: Position (3, 4)
+  Time 711: Position (3, 3)
+  Time 720: Position (3, 2)
+  Time 729: Position (3, 1)
+  Time 738: Position (3, 0)
+  Time 738: Position out
+Car 119 movement history:
+  Time 658: Position in
+  Time 664: Position (2, 9)
+  Time 666: Position (2, 8)
+  Time 675: Position (2, 7)
+  Time 684: Position (2, 6)
+  Time 693: Position (2, 5)
+  Time 702: Position (2, 4)
+  Time 711: Position (2, 3)
+  Time 720: Position (2, 2)
+  Time 729: Position (2, 1)
+  Time 738: Position (2, 0)
+  Time 744: Position out
+Car 120 movement history:
+  Time 664: Position in
+  Time 676: Position (1, 9)
+  Time 666: Position (1, 8)
+  Time 675: Position (1, 7)
+  Time 684: Position (1, 6)
+  Time 693: Position (1, 5)
+  Time 702: Position (1, 4)
+  Time 711: Position (1, 3)
+  Time 720: Position (1, 2)
+  Time 729: Position (1, 1)
+  Time 738: Position (1, 0)
+  Time 750: Position out
+Car 121 movement history:
+  Time 676: Position in
+  Time 676: Position (3, 9)
+  Time 684: Position (3, 8)
+  Time 693: Position (3, 7)
+  Time 702: Position (3, 6)
+  Time 711: Position (3, 5)
+  Time 720: Position (3, 4)
+  Time 729: Position (3, 3)
+  Time 738: Position (3, 2)
+  Time 747: Position (3, 1)
+  Time 756: Position (3, 0)
+  Time 756: Position out
+Car 122 movement history:
+  Time 677: Position in
+  Time 683: Position (2, 9)
+  Time 684: Position (2, 8)
+  Time 693: Position (2, 7)
+  Time 702: Position (2, 6)
+  Time 711: Position (2, 5)
+  Time 720: Position (2, 4)
+  Time 729: Position (2, 3)
+  Time 738: Position (2, 2)
+  Time 747: Position (2, 1)
+  Time 756: Position (2, 0)
+  Time 762: Position out
+Car 123 movement history:
+  Time 683: Position in
+  Time 695: Position (1, 9)
+  Time 684: Position (1, 8)
+  Time 693: Position (1, 7)
+  Time 702: Position (1, 6)
+  Time 711: Position (1, 5)
+  Time 720: Position (1, 4)
+  Time 729: Position (1, 3)
+  Time 738: Position (1, 2)
+  Time 747: Position (1, 1)
+  Time 756: Position (1, 0)
+  Time 768: Position out
+Car 124 movement history:
+  Time 695: Position in
+  Time 695: Position (3, 9)
+  Time 702: Position (3, 8)
+  Time 711: Position (3, 7)
+  Time 720: Position (3, 6)
+  Time 729: Position (3, 5)
+  Time 738: Position (3, 4)
+  Time 747: Position (3, 3)
+  Time 756: Position (3, 2)
+  Time 765: Position (3, 1)
+  Time 774: Position (3, 0)
+  Time 774: Position out
+Car 125 movement history:
+  Time 696: Position in
+  Time 702: Position (2, 9)
+  Time 702: Position (2, 8)
+  Time 711: Position (2, 7)
+  Time 720: Position (2, 6)
+  Time 729: Position (2, 5)
+  Time 738: Position (2, 4)
+  Time 747: Position (2, 3)
+  Time 756: Position (2, 2)
+  Time 765: Position (2, 1)
+  Time 774: Position (2, 0)
+  Time 780: Position out
+Car 126 movement history:
+  Time 702: Position in
+  Time 702: Position (3, 9)
+  Time 711: Position (3, 8)
+  Time 720: Position (3, 7)
+  Time 729: Position (3, 6)
+  Time 738: Position (3, 5)
+  Time 747: Position (3, 4)
+  Time 756: Position (3, 3)
+  Time 765: Position (3, 2)
+  Time 774: Position (3, 1)
+  Time 783: Position (3, 0)
+  Time 783: Position out
+Car 127 movement history:
+  Time 703: Position in
+  Time 709: Position (2, 9)
+  Time 711: Position (2, 8)
+  Time 720: Position (2, 7)
+  Time 729: Position (2, 6)
+  Time 738: Position (2, 5)
+  Time 747: Position (2, 4)
+  Time 756: Position (2, 3)
+  Time 765: Position (2, 2)
+  Time 774: Position (2, 1)
+  Time 783: Position (2, 0)
+  Time 789: Position out
+Car 128 movement history:
+  Time 709: Position in
+  Time 721: Position (1, 9)
+  Time 711: Position (1, 8)
+  Time 720: Position (1, 7)
+  Time 729: Position (1, 6)
+  Time 738: Position (1, 5)
+  Time 747: Position (1, 4)
+  Time 756: Position (1, 3)
+  Time 765: Position (1, 2)
+  Time 774: Position (1, 1)
+  Time 783: Position (1, 0)
+  Time 795: Position out
+Car 129 movement history:
+  Time 721: Position in
+  Time 721: Position (3, 9)
+  Time 729: Position (3, 8)
+  Time 738: Position (3, 7)
+  Time 747: Position (3, 6)
+  Time 756: Position (3, 5)
+  Time 765: Position (3, 4)
+  Time 774: Position (3, 3)
+  Time 783: Position (3, 2)
+  Time 792: Position (3, 1)
+  Time 801: Position (3, 0)
+  Time 801: Position out
+Car 130 movement history:
+  Time 722: Position in
+  Time 728: Position (2, 9)
+  Time 729: Position (2, 8)
+  Time 738: Position (2, 7)
+  Time 747: Position (2, 6)
+  Time 756: Position (2, 5)
+  Time 765: Position (2, 4)
+  Time 774: Position (2, 3)
+  Time 783: Position (2, 2)
+  Time 792: Position (2, 1)
+  Time 801: Position (2, 0)
+  Time 807: Position out
+Car 131 movement history:
+  Time 728: Position in
+  Time 740: Position (1, 9)
+  Time 729: Position (1, 8)
+  Time 738: Position (1, 7)
+  Time 747: Position (1, 6)
+  Time 756: Position (1, 5)
+  Time 765: Position (1, 4)
+  Time 774: Position (1, 3)
+  Time 783: Position (1, 2)
+  Time 792: Position (1, 1)
+  Time 801: Position (1, 0)
+  Time 813: Position out
+Car 132 movement history:
+  Time 740: Position in
+  Time 740: Position (3, 9)
+  Time 747: Position (3, 8)
+  Time 756: Position (3, 7)
+  Time 765: Position (3, 6)
+  Time 774: Position (3, 5)
+  Time 783: Position (3, 4)
+  Time 792: Position (3, 3)
+  Time 801: Position (3, 2)
+  Time 810: Position (3, 1)
+  Time 819: Position (3, 0)
+  Time 819: Position out
+Car 133 movement history:
+  Time 741: Position in
+  Time 747: Position (2, 9)
+  Time 747: Position (2, 8)
+  Time 756: Position (2, 7)
+  Time 765: Position (2, 6)
+  Time 774: Position (2, 5)
+  Time 783: Position (2, 4)
+  Time 792: Position (2, 3)
+  Time 801: Position (2, 2)
+  Time 810: Position (2, 1)
+  Time 819: Position (2, 0)
+  Time 825: Position out
+Car 134 movement history:
+  Time 747: Position in
+  Time 747: Position (3, 9)
+  Time 756: Position (3, 8)
+  Time 765: Position (3, 7)
+  Time 774: Position (3, 6)
+  Time 783: Position (3, 5)
+  Time 792: Position (3, 4)
+  Time 801: Position (3, 3)
+  Time 810: Position (3, 2)
+  Time 819: Position (3, 1)
+  Time 828: Position (3, 0)
+  Time 828: Position out
+Car 135 movement history:
+  Time 748: Position in
+  Time 754: Position (2, 9)
+  Time 756: Position (2, 8)
+  Time 765: Position (2, 7)
+  Time 774: Position (2, 6)
+  Time 783: Position (2, 5)
+  Time 792: Position (2, 4)
+  Time 801: Position (2, 3)
+  Time 810: Position (2, 2)
+  Time 819: Position (2, 1)
+  Time 828: Position (2, 0)
+  Time 834: Position out
+Car 136 movement history:
+  Time 754: Position in
+  Time 766: Position (1, 9)
+  Time 756: Position (1, 8)
+  Time 765: Position (1, 7)
+  Time 774: Position (1, 6)
+  Time 783: Position (1, 5)
+  Time 792: Position (1, 4)
+  Time 801: Position (1, 3)
+  Time 810: Position (1, 2)
+  Time 819: Position (1, 1)
+  Time 828: Position (1, 0)
+  Time 840: Position out
+Car 137 movement history:
+  Time 766: Position in
+  Time 766: Position (3, 9)
+  Time 774: Position (3, 8)
+  Time 783: Position (3, 7)
+  Time 792: Position (3, 6)
+  Time 801: Position (3, 5)
+  Time 810: Position (3, 4)
+  Time 819: Position (3, 3)
+  Time 828: Position (3, 2)
+  Time 837: Position (3, 1)
+  Time 846: Position (3, 0)
+  Time 846: Position out
+Car 138 movement history:
+  Time 767: Position in
+  Time 773: Position (2, 9)
+  Time 774: Position (2, 8)
+  Time 783: Position (2, 7)
+  Time 792: Position (2, 6)
+  Time 801: Position (2, 5)
+  Time 810: Position (2, 4)
+  Time 819: Position (2, 3)
+  Time 828: Position (2, 2)
+  Time 837: Position (2, 1)
+  Time 846: Position (2, 0)
+  Time 852: Position out
+Car 139 movement history:
+  Time 773: Position in
+  Time 785: Position (1, 9)
+  Time 774: Position (1, 8)
+  Time 783: Position (1, 7)
+  Time 792: Position (1, 6)
+  Time 801: Position (1, 5)
+  Time 810: Position (1, 4)
+  Time 819: Position (1, 3)
+  Time 828: Position (1, 2)
+  Time 837: Position (1, 1)
+  Time 846: Position (1, 0)
+  Time 858: Position out
+Car 140 movement history:
+  Time 785: Position in
+  Time 785: Position (3, 9)
+  Time 792: Position (3, 8)
+  Time 801: Position (3, 7)
+  Time 810: Position (3, 6)
+  Time 819: Position (3, 5)
+  Time 828: Position (3, 4)
+  Time 837: Position (3, 3)
+  Time 846: Position (3, 2)
+  Time 855: Position (3, 1)
+  Time 864: Position (3, 0)
+  Time 864: Position out
+Car 141 movement history:
+  Time 786: Position in
+  Time 792: Position (2, 9)
+  Time 792: Position (2, 8)
+  Time 801: Position (2, 7)
+  Time 810: Position (2, 6)
+  Time 819: Position (2, 5)
+  Time 828: Position (2, 4)
+  Time 837: Position (2, 3)
+  Time 846: Position (2, 2)
+  Time 855: Position (2, 1)
+  Time 864: Position (2, 0)
+  Time 870: Position out
+Car 142 movement history:
+  Time 792: Position in
+  Time 792: Position (3, 9)
+  Time 801: Position (3, 8)
+  Time 810: Position (3, 7)
+  Time 819: Position (3, 6)
+  Time 828: Position (3, 5)
+  Time 837: Position (3, 4)
+  Time 846: Position (3, 3)
+  Time 855: Position (3, 2)
+  Time 864: Position (3, 1)
+  Time 873: Position (3, 0)
+  Time 873: Position out
+Car 143 movement history:
+  Time 793: Position in
+  Time 799: Position (2, 9)
+  Time 801: Position (2, 8)
+  Time 810: Position (2, 7)
+  Time 819: Position (2, 6)
+  Time 828: Position (2, 5)
+  Time 837: Position (2, 4)
+  Time 846: Position (2, 3)
+  Time 855: Position (2, 2)
+  Time 864: Position (2, 1)
+  Time 873: Position (2, 0)
+  Time 879: Position out
+Car 144 movement history:
+  Time 799: Position in
+  Time 811: Position (1, 9)
+  Time 801: Position (1, 8)
+  Time 810: Position (1, 7)
+  Time 819: Position (1, 6)
+  Time 828: Position (1, 5)
+  Time 837: Position (1, 4)
+  Time 846: Position (1, 3)
+  Time 855: Position (1, 2)
+  Time 864: Position (1, 1)
+  Time 873: Position (1, 0)
+  Time 885: Position out
+Car 145 movement history:
+  Time 811: Position in
+  Time 811: Position (3, 9)
+  Time 819: Position (3, 8)
+  Time 828: Position (3, 7)
+  Time 837: Position (3, 6)
+  Time 846: Position (3, 5)
+  Time 855: Position (3, 4)
+  Time 864: Position (3, 3)
+  Time 873: Position (3, 2)
+  Time 882: Position (3, 1)
+  Time 891: Position (3, 0)
+  Time 891: Position out
+Car 146 movement history:
+  Time 812: Position in
+  Time 818: Position (2, 9)
+  Time 819: Position (2, 8)
+  Time 828: Position (2, 7)
+  Time 837: Position (2, 6)
+  Time 846: Position (2, 5)
+  Time 855: Position (2, 4)
+  Time 864: Position (2, 3)
+  Time 873: Position (2, 2)
+  Time 882: Position (2, 1)
+  Time 891: Position (2, 0)
+  Time 897: Position out
+Car 147 movement history:
+  Time 818: Position in
+  Time 830: Position (1, 9)
+  Time 819: Position (1, 8)
+  Time 828: Position (1, 7)
+  Time 837: Position (1, 6)
+  Time 846: Position (1, 5)
+  Time 855: Position (1, 4)
+  Time 864: Position (1, 3)
+  Time 873: Position (1, 2)
+  Time 882: Position (1, 1)
+  Time 891: Position (1, 0)
+  Time 903: Position out
+Car 148 movement history:
+  Time 830: Position in
+  Time 830: Position (3, 9)
+  Time 837: Position (3, 8)
+  Time 846: Position (3, 7)
+  Time 855: Position (3, 6)
+  Time 864: Position (3, 5)
+  Time 873: Position (3, 4)
+  Time 882: Position (3, 3)
+  Time 891: Position (3, 2)
+  Time 900: Position (3, 1)
+  Time 909: Position (3, 0)
+  Time 909: Position out
+Car 149 movement history:
+  Time 831: Position in
+  Time 837: Position (2, 9)
+  Time 837: Position (2, 8)
+  Time 846: Position (2, 7)
+  Time 855: Position (2, 6)
+  Time 864: Position (2, 5)
+  Time 873: Position (2, 4)
+  Time 882: Position (2, 3)
+  Time 891: Position (2, 2)
+  Time 900: Position (2, 1)
+  Time 909: Position (2, 0)
+  Time 915: Position out
+Car 150 movement history:
+  Time 837: Position in
+  Time 837: Position (3, 9)
+  Time 846: Position (3, 8)
+  Time 855: Position (3, 7)
+  Time 864: Position (3, 6)
+  Time 873: Position (3, 5)
+  Time 882: Position (3, 4)
+  Time 891: Position (3, 3)
+  Time 900: Position (3, 2)
+  Time 909: Position (3, 1)
+  Time 918: Position (3, 0)
+  Time 918: Position out
+Car 151 movement history:
+  Time 838: Position in
+  Time 844: Position (2, 9)
+  Time 846: Position (2, 8)
+  Time 855: Position (2, 7)
+  Time 864: Position (2, 6)
+  Time 873: Position (2, 5)
+  Time 882: Position (2, 4)
+  Time 891: Position (2, 3)
+  Time 900: Position (2, 2)
+  Time 909: Position (2, 1)
+  Time 918: Position (2, 0)
+  Time 924: Position out
+Car 152 movement history:
+  Time 844: Position in
+  Time 856: Position (1, 9)
+  Time 846: Position (1, 8)
+  Time 855: Position (1, 7)
+  Time 864: Position (1, 6)
+  Time 873: Position (1, 5)
+  Time 882: Position (1, 4)
+  Time 891: Position (1, 3)
+  Time 900: Position (1, 2)
+  Time 909: Position (1, 1)
+  Time 918: Position (1, 0)
+  Time 930: Position out
+Car 153 movement history:
+  Time 856: Position in
+  Time 856: Position (3, 9)
+  Time 864: Position (3, 8)
+  Time 873: Position (3, 7)
+  Time 882: Position (3, 6)
+  Time 891: Position (3, 5)
+  Time 900: Position (3, 4)
+  Time 909: Position (3, 3)
+  Time 918: Position (3, 2)
+  Time 927: Position (3, 1)
+  Time 936: Position (3, 0)
+  Time 936: Position out
+Car 154 movement history:
+  Time 857: Position in
+  Time 863: Position (2, 9)
+  Time 864: Position (2, 8)
+  Time 873: Position (2, 7)
+  Time 882: Position (2, 6)
+  Time 891: Position (2, 5)
+  Time 900: Position (2, 4)
+  Time 909: Position (2, 3)
+  Time 918: Position (2, 2)
+  Time 927: Position (2, 1)
+  Time 936: Position (2, 0)
+  Time 942: Position out
+Car 155 movement history:
+  Time 863: Position in
+  Time 875: Position (1, 9)
+  Time 864: Position (1, 8)
+  Time 873: Position (1, 7)
+  Time 882: Position (1, 6)
+  Time 891: Position (1, 5)
+  Time 900: Position (1, 4)
+  Time 909: Position (1, 3)
+  Time 918: Position (1, 2)
+  Time 927: Position (1, 1)
+  Time 936: Position (1, 0)
+  Time 948: Position out
+Car 156 movement history:
+  Time 875: Position in
+  Time 875: Position (3, 9)
+  Time 882: Position (3, 8)
+  Time 891: Position (3, 7)
+  Time 900: Position (3, 6)
+  Time 909: Position (3, 5)
+  Time 918: Position (3, 4)
+  Time 927: Position (3, 3)
+  Time 936: Position (3, 2)
+  Time 945: Position (3, 1)
+  Time 954: Position (3, 0)
+  Time 954: Position out
+Car 157 movement history:
+  Time 876: Position in
+  Time 882: Position (2, 9)
+  Time 882: Position (2, 8)
+  Time 891: Position (2, 7)
+  Time 900: Position (2, 6)
+  Time 909: Position (2, 5)
+  Time 918: Position (2, 4)
+  Time 927: Position (2, 3)
+  Time 936: Position (2, 2)
+  Time 945: Position (2, 1)
+  Time 954: Position (2, 0)
+  Time 960: Position out
+Car 158 movement history:
+  Time 882: Position in
+  Time 882: Position (3, 9)
+  Time 891: Position (3, 8)
+  Time 900: Position (3, 7)
+  Time 909: Position (3, 6)
+  Time 918: Position (3, 5)
+  Time 927: Position (3, 4)
+  Time 936: Position (3, 3)
+  Time 945: Position (3, 2)
+  Time 954: Position (3, 1)
+  Time 963: Position (3, 0)
+  Time 963: Position out
+Car 159 movement history:
+  Time 883: Position in
+  Time 889: Position (2, 9)
+  Time 891: Position (2, 8)
+  Time 900: Position (2, 7)
+  Time 909: Position (2, 6)
+  Time 918: Position (2, 5)
+  Time 927: Position (2, 4)
+  Time 936: Position (2, 3)
+  Time 945: Position (2, 2)
+  Time 954: Position (2, 1)
+  Time 963: Position (2, 0)
+  Time 969: Position out
+Car 160 movement history:
+  Time 889: Position in
+  Time 901: Position (1, 9)
+  Time 891: Position (1, 8)
+  Time 900: Position (1, 7)
+  Time 909: Position (1, 6)
+  Time 918: Position (1, 5)
+  Time 927: Position (1, 4)
+  Time 936: Position (1, 3)
+  Time 945: Position (1, 2)
+  Time 954: Position (1, 1)
+  Time 963: Position (1, 0)
+  Time 975: Position out
+Car 161 movement history:
+  Time 901: Position in
+  Time 901: Position (3, 9)
+  Time 909: Position (3, 8)
+  Time 918: Position (3, 7)
+  Time 927: Position (3, 6)
+  Time 936: Position (3, 5)
+  Time 945: Position (3, 4)
+  Time 954: Position (3, 3)
+  Time 963: Position (3, 2)
+  Time 972: Position (3, 1)
+  Time 981: Position (3, 0)
+  Time 981: Position out
+Car 162 movement history:
+  Time 902: Position in
+  Time 908: Position (2, 9)
+  Time 909: Position (2, 8)
+  Time 918: Position (2, 7)
+  Time 927: Position (2, 6)
+  Time 936: Position (2, 5)
+  Time 945: Position (2, 4)
+  Time 954: Position (2, 3)
+  Time 963: Position (2, 2)
+  Time 972: Position (2, 1)
+  Time 981: Position (2, 0)
+  Time 987: Position out
+Car 163 movement history:
+  Time 908: Position in
+  Time 920: Position (1, 9)
+  Time 909: Position (1, 8)
+  Time 918: Position (1, 7)
+  Time 927: Position (1, 6)
+  Time 936: Position (1, 5)
+  Time 945: Position (1, 4)
+  Time 954: Position (1, 3)
+  Time 963: Position (1, 2)
+  Time 972: Position (1, 1)
+  Time 981: Position (1, 0)
+  Time 993: Position out
+Car 164 movement history:
+  Time 920: Position in
+  Time 920: Position (3, 9)
+  Time 927: Position (3, 8)
+  Time 936: Position (3, 7)
+  Time 945: Position (3, 6)
+  Time 954: Position (3, 5)
+  Time 963: Position (3, 4)
+  Time 972: Position (3, 3)
+  Time 981: Position (3, 2)
+  Time 990: Position (3, 1)
+  Time 999: Position (3, 0)
+  Time 999: Position out
+Car 165 movement history:
+  Time 921: Position in
+  Time 927: Position (2, 9)
+  Time 927: Position (2, 8)
+  Time 936: Position (2, 7)
+  Time 945: Position (2, 6)
+  Time 954: Position (2, 5)
+  Time 963: Position (2, 4)
+  Time 972: Position (2, 3)
+  Time 981: Position (2, 2)
+  Time 990: Position (2, 1)
+  Time 999: Position (2, 0)
+  Time 1005: Position out
+Car 166 movement history:
+  Time 927: Position in
+  Time 927: Position (3, 9)
+  Time 936: Position (3, 8)
+  Time 945: Position (3, 7)
+  Time 954: Position (3, 6)
+  Time 963: Position (3, 5)
+  Time 972: Position (3, 4)
+  Time 981: Position (3, 3)
+  Time 990: Position (3, 2)
+  Time 999: Position (3, 1)
+  Time 1008: Position (3, 0)
+  Time 1008: Position out
+Car 167 movement history:
+  Time 928: Position in
+  Time 934: Position (2, 9)
+  Time 936: Position (2, 8)
+  Time 945: Position (2, 7)
+  Time 954: Position (2, 6)
+  Time 963: Position (2, 5)
+  Time 972: Position (2, 4)
+  Time 981: Position (2, 3)
+  Time 990: Position (2, 2)
+  Time 999: Position (2, 1)
+  Time 1008: Position (2, 0)
+  Time 1014: Position out
+Car 168 movement history:
+  Time 934: Position in
+  Time 946: Position (1, 9)
+  Time 936: Position (1, 8)
+  Time 945: Position (1, 7)
+  Time 954: Position (1, 6)
+  Time 963: Position (1, 5)
+  Time 972: Position (1, 4)
+  Time 981: Position (1, 3)
+  Time 990: Position (1, 2)
+  Time 999: Position (1, 1)
+  Time 1008: Position (1, 0)
+  Time 1020: Position out
+Car 169 movement history:
+  Time 946: Position in
+  Time 946: Position (3, 9)
+  Time 954: Position (3, 8)
+  Time 963: Position (3, 7)
+  Time 972: Position (3, 6)
+  Time 981: Position (3, 5)
+  Time 990: Position (3, 4)
+  Time 999: Position (3, 3)
+  Time 1008: Position (3, 2)
+  Time 1017: Position (3, 1)
+  Time 1026: Position (3, 0)
+  Time 1026: Position out
+Car 170 movement history:
+  Time 947: Position in
+  Time 953: Position (2, 9)
+  Time 954: Position (2, 8)
+  Time 963: Position (2, 7)
+  Time 972: Position (2, 6)
+  Time 981: Position (2, 5)
+  Time 990: Position (2, 4)
+  Time 999: Position (2, 3)
+  Time 1008: Position (2, 2)
+  Time 1017: Position (2, 1)
+  Time 1026: Position (2, 0)
+  Time 1032: Position out
+Car 171 movement history:
+  Time 953: Position in
+  Time 965: Position (1, 9)
+  Time 954: Position (1, 8)
+  Time 963: Position (1, 7)
+  Time 972: Position (1, 6)
+  Time 981: Position (1, 5)
+  Time 990: Position (1, 4)
+  Time 999: Position (1, 3)
+  Time 1008: Position (1, 2)
+  Time 1017: Position (1, 1)
+  Time 1026: Position (1, 0)
+  Time 1038: Position out
+Car 172 movement history:
+  Time 965: Position in
+  Time 965: Position (3, 9)
+  Time 972: Position (3, 8)
+  Time 981: Position (3, 7)
+  Time 990: Position (3, 6)
+  Time 999: Position (3, 5)
+  Time 1008: Position (3, 4)
+  Time 1017: Position (3, 3)
+  Time 1026: Position (3, 2)
+  Time 1035: Position (3, 1)
+  Time 1044: Position (3, 0)
+  Time 1044: Position out
+Car 173 movement history:
+  Time 966: Position in
+  Time 972: Position (2, 9)
+  Time 972: Position (2, 8)
+  Time 981: Position (2, 7)
+  Time 990: Position (2, 6)
+  Time 999: Position (2, 5)
+  Time 1008: Position (2, 4)
+  Time 1017: Position (2, 3)
+  Time 1026: Position (2, 2)
+  Time 1035: Position (2, 1)
+  Time 1044: Position (2, 0)
+  Time 1050: Position out
+Car 174 movement history:
+  Time 972: Position in
+  Time 972: Position (3, 9)
+  Time 981: Position (3, 8)
+  Time 990: Position (3, 7)
+  Time 999: Position (3, 6)
+  Time 1008: Position (3, 5)
+  Time 1017: Position (3, 4)
+  Time 1026: Position (3, 3)
+  Time 1035: Position (3, 2)
+  Time 1044: Position (3, 1)
+  Time 1053: Position (3, 0)
+  Time 1053: Position out
+Car 175 movement history:
+  Time 973: Position in
+  Time 979: Position (2, 9)
+  Time 981: Position (2, 8)
+  Time 990: Position (2, 7)
+  Time 999: Position (2, 6)
+  Time 1008: Position (2, 5)
+  Time 1017: Position (2, 4)
+  Time 1026: Position (2, 3)
+  Time 1035: Position (2, 2)
+  Time 1044: Position (2, 1)
+  Time 1053: Position (2, 0)
+  Time 1059: Position out
+Car 176 movement history:
+  Time 979: Position in
+  Time 991: Position (1, 9)
+  Time 981: Position (1, 8)
+  Time 990: Position (1, 7)
+  Time 999: Position (1, 6)
+  Time 1008: Position (1, 5)
+  Time 1017: Position (1, 4)
+  Time 1026: Position (1, 3)
+  Time 1035: Position (1, 2)
+  Time 1044: Position (1, 1)
+  Time 1053: Position (1, 0)
+  Time 1065: Position out
+Car 177 movement history:
+  Time 991: Position in
+  Time 991: Position (3, 9)
+  Time 999: Position (3, 8)
+  Time 1008: Position (3, 7)
+  Time 1017: Position (3, 6)
+  Time 1026: Position (3, 5)
+  Time 1035: Position (3, 4)
+  Time 1044: Position (3, 3)
+  Time 1053: Position (3, 2)
+  Time 1062: Position (3, 1)
+  Time 1071: Position (3, 0)
+  Time 1071: Position out
+Car 178 movement history:
+  Time 992: Position in
+  Time 998: Position (2, 9)
+  Time 999: Position (2, 8)
+  Time 1008: Position (2, 7)
+  Time 1017: Position (2, 6)
+  Time 1026: Position (2, 5)
+  Time 1035: Position (2, 4)
+  Time 1044: Position (2, 3)
+  Time 1053: Position (2, 2)
+  Time 1062: Position (2, 1)
+  Time 1071: Position (2, 0)
+  Time 1077: Position out
+Car 179 movement history:
+  Time 998: Position in
+  Time 1010: Position (1, 9)
+  Time 999: Position (1, 8)
+  Time 1008: Position (1, 7)
+  Time 1017: Position (1, 6)
+  Time 1026: Position (1, 5)
+  Time 1035: Position (1, 4)
+  Time 1044: Position (1, 3)
+  Time 1053: Position (1, 2)
+  Time 1062: Position (1, 1)
+  Time 1071: Position (1, 0)
+  Time 1083: Position out
+Car 180 movement history:
+  Time 1010: Position in
+  Time 1010: Position (3, 9)
+  Time 1017: Position (3, 8)
+  Time 1026: Position (3, 7)
+  Time 1035: Position (3, 6)
+  Time 1044: Position (3, 5)
+  Time 1053: Position (3, 4)
+  Time 1062: Position (3, 3)
+  Time 1071: Position (3, 2)
+  Time 1080: Position (3, 1)
+  Time 1089: Position (3, 0)
+  Time 1089: Position out
+Car 181 movement history:
+  Time 1011: Position in
+  Time 1017: Position (2, 9)
+  Time 1017: Position (2, 8)
+  Time 1026: Position (2, 7)
+  Time 1035: Position (2, 6)
+  Time 1044: Position (2, 5)
+  Time 1053: Position (2, 4)
+  Time 1062: Position (2, 3)
+  Time 1071: Position (2, 2)
+  Time 1080: Position (2, 1)
+  Time 1089: Position (2, 0)
+  Time 1095: Position out
+Car 182 movement history:
+  Time 1017: Position in
+  Time 1017: Position (3, 9)
+  Time 1026: Position (3, 8)
+  Time 1035: Position (3, 7)
+  Time 1044: Position (3, 6)
+  Time 1053: Position (3, 5)
+  Time 1062: Position (3, 4)
+  Time 1071: Position (3, 3)
+  Time 1080: Position (3, 2)
+  Time 1089: Position (3, 1)
+  Time 1098: Position (3, 0)
+  Time 1098: Position out
+Car 183 movement history:
+  Time 1018: Position in
+  Time 1024: Position (2, 9)
+  Time 1026: Position (2, 8)
+  Time 1035: Position (2, 7)
+  Time 1044: Position (2, 6)
+  Time 1053: Position (2, 5)
+  Time 1062: Position (2, 4)
+  Time 1071: Position (2, 3)
+  Time 1080: Position (2, 2)
+  Time 1089: Position (2, 1)
+  Time 1098: Position (2, 0)
+  Time 1104: Position out
+Car 184 movement history:
+  Time 1024: Position in
+  Time 1036: Position (1, 9)
+  Time 1026: Position (1, 8)
+  Time 1035: Position (1, 7)
+  Time 1044: Position (1, 6)
+  Time 1053: Position (1, 5)
+  Time 1062: Position (1, 4)
+  Time 1071: Position (1, 3)
+  Time 1080: Position (1, 2)
+  Time 1089: Position (1, 1)
+  Time 1098: Position (1, 0)
+  Time 1110: Position out
+Car 185 movement history:
+  Time 1036: Position in
+  Time 1036: Position (3, 9)
+  Time 1044: Position (3, 8)
+  Time 1053: Position (3, 7)
+  Time 1062: Position (3, 6)
+  Time 1071: Position (3, 5)
+  Time 1080: Position (3, 4)
+  Time 1089: Position (3, 3)
+  Time 1098: Position (3, 2)
+  Time 1107: Position (3, 1)
+  Time 1116: Position (3, 0)
+  Time 1116: Position out
+Car 186 movement history:
+  Time 1037: Position in
+  Time 1043: Position (2, 9)
+  Time 1044: Position (2, 8)
+  Time 1053: Position (2, 7)
+  Time 1062: Position (2, 6)
+  Time 1071: Position (2, 5)
+  Time 1080: Position (2, 4)
+  Time 1089: Position (2, 3)
+  Time 1098: Position (2, 2)
+  Time 1107: Position (2, 1)
+  Time 1116: Position (2, 0)
+  Time 1122: Position out
+Car 187 movement history:
+  Time 1043: Position in
+  Time 1055: Position (1, 9)
+  Time 1044: Position (1, 8)
+  Time 1053: Position (1, 7)
+  Time 1062: Position (1, 6)
+  Time 1071: Position (1, 5)
+  Time 1080: Position (1, 4)
+  Time 1089: Position (1, 3)
+  Time 1098: Position (1, 2)
+  Time 1107: Position (1, 1)
+  Time 1116: Position (1, 0)
+  Time 1128: Position out
+Car 188 movement history:
+  Time 1055: Position in
+  Time 1055: Position (3, 9)
+  Time 1062: Position (3, 8)
+  Time 1071: Position (3, 7)
+  Time 1080: Position (3, 6)
+  Time 1089: Position (3, 5)
+  Time 1098: Position (3, 4)
+  Time 1107: Position (3, 3)
+  Time 1116: Position (3, 2)
+  Time 1125: Position (3, 1)
+  Time 1134: Position (3, 0)
+  Time 1134: Position out
+Car 189 movement history:
+  Time 1056: Position in
+  Time 1062: Position (2, 9)
+  Time 1062: Position (2, 8)
+  Time 1071: Position (2, 7)
+  Time 1080: Position (2, 6)
+  Time 1089: Position (2, 5)
+  Time 1098: Position (2, 4)
+  Time 1107: Position (2, 3)
+  Time 1116: Position (2, 2)
+  Time 1125: Position (2, 1)
+  Time 1134: Position (2, 0)
+  Time 1140: Position out
+Car 190 movement history:
+  Time 1062: Position in
+  Time 1062: Position (3, 9)
+  Time 1071: Position (3, 8)
+  Time 1080: Position (3, 7)
+  Time 1089: Position (3, 6)
+  Time 1098: Position (3, 5)
+  Time 1107: Position (3, 4)
+  Time 1116: Position (3, 3)
+  Time 1125: Position (3, 2)
+  Time 1134: Position (3, 1)
+  Time 1143: Position (3, 0)
+  Time 1143: Position out
+Car 191 movement history:
+  Time 1063: Position in
+  Time 1069: Position (2, 9)
+  Time 1071: Position (2, 8)
+  Time 1080: Position (2, 7)
+  Time 1089: Position (2, 6)
+  Time 1098: Position (2, 5)
+  Time 1107: Position (2, 4)
+  Time 1116: Position (2, 3)
+  Time 1125: Position (2, 2)
+  Time 1134: Position (2, 1)
+  Time 1143: Position (2, 0)
+  Time 1149: Position out
+Car 192 movement history:
+  Time 1069: Position in
+  Time 1081: Position (1, 9)
+  Time 1071: Position (1, 8)
+  Time 1080: Position (1, 7)
+  Time 1089: Position (1, 6)
+  Time 1098: Position (1, 5)
+  Time 1107: Position (1, 4)
+  Time 1116: Position (1, 3)
+  Time 1125: Position (1, 2)
+  Time 1134: Position (1, 1)
+  Time 1143: Position (1, 0)
+  Time 1155: Position out
+Car 193 movement history:
+  Time 1081: Position in
+  Time 1081: Position (3, 9)
+  Time 1089: Position (3, 8)
+  Time 1098: Position (3, 7)
+  Time 1107: Position (3, 6)
+  Time 1116: Position (3, 5)
+  Time 1125: Position (3, 4)
+  Time 1134: Position (3, 3)
+  Time 1143: Position (3, 2)
+  Time 1152: Position (3, 1)
+  Time 1161: Position (3, 0)
+  Time 1161: Position out
+Car 194 movement history:
+  Time 1082: Position in
+  Time 1088: Position (2, 9)
+  Time 1089: Position (2, 8)
+  Time 1098: Position (2, 7)
+  Time 1107: Position (2, 6)
+  Time 1116: Position (2, 5)
+  Time 1125: Position (2, 4)
+  Time 1134: Position (2, 3)
+  Time 1143: Position (2, 2)
+  Time 1152: Position (2, 1)
+  Time 1161: Position (2, 0)
+  Time 1167: Position out
+Car 195 movement history:
+  Time 1088: Position in
+  Time 1100: Position (1, 9)
+  Time 1089: Position (1, 8)
+  Time 1098: Position (1, 7)
+  Time 1107: Position (1, 6)
+  Time 1116: Position (1, 5)
+  Time 1125: Position (1, 4)
+  Time 1134: Position (1, 3)
+  Time 1143: Position (1, 2)
+  Time 1152: Position (1, 1)
+  Time 1161: Position (1, 0)
+  Time 1173: Position out
+Car 196 movement history:
+  Time 1100: Position in
+  Time 1100: Position (3, 9)
+  Time 1107: Position (3, 8)
+  Time 1116: Position (3, 7)
+  Time 1125: Position (3, 6)
+  Time 1134: Position (3, 5)
+  Time 1143: Position (3, 4)
+  Time 1152: Position (3, 3)
+  Time 1161: Position (3, 2)
+  Time 1170: Position (3, 1)
+  Time 1179: Position (3, 0)
+  Time 1179: Position out
+Car 197 movement history:
+  Time 1101: Position in
+  Time 1107: Position (2, 9)
+  Time 1107: Position (2, 8)
+  Time 1116: Position (2, 7)
+  Time 1125: Position (2, 6)
+  Time 1134: Position (2, 5)
+  Time 1143: Position (2, 4)
+  Time 1152: Position (2, 3)
+  Time 1161: Position (2, 2)
+  Time 1170: Position (2, 1)
+  Time 1179: Position (2, 0)
+  Time 1185: Position out
+Car 198 movement history:
+  Time 1107: Position in
+  Time 1107: Position (3, 9)
+  Time 1116: Position (3, 8)
+  Time 1125: Position (3, 7)
+  Time 1134: Position (3, 6)
+  Time 1143: Position (3, 5)
+  Time 1152: Position (3, 4)
+  Time 1161: Position (3, 3)
+  Time 1170: Position (3, 2)
+  Time 1179: Position (3, 1)
+  Time 1188: Position (3, 0)
+  Time 1188: Position out
+Car 199 movement history:
+  Time 1108: Position in
+  Time 1114: Position (2, 9)
+  Time 1116: Position (2, 8)
+  Time 1125: Position (2, 7)
+  Time 1134: Position (2, 6)
+  Time 1143: Position (2, 5)
+  Time 1152: Position (2, 4)
+  Time 1161: Position (2, 3)
+  Time 1170: Position (2, 2)
+  Time 1179: Position (2, 1)
+  Time 1188: Position (2, 0)
+  Time 1194: Position out
+Car 200 movement history:
+  Time 1114: Position in
+  Time 1126: Position (1, 9)
+  Time 1116: Position (1, 8)
+  Time 1125: Position (1, 7)
+  Time 1134: Position (1, 6)
+  Time 1143: Position (1, 5)
+  Time 1152: Position (1, 4)
+  Time 1161: Position (1, 3)
+  Time 1170: Position (1, 2)
+  Time 1179: Position (1, 1)
+  Time 1188: Position (1, 0)
+  Time 1200: Position out
+Car 201 movement history:
+  Time 1126: Position in
+  Time 1126: Position (3, 9)
+  Time 1134: Position (3, 8)
+  Time 1143: Position (3, 7)
+  Time 1152: Position (3, 6)
+  Time 1161: Position (3, 5)
+  Time 1170: Position (3, 4)
+  Time 1179: Position (3, 3)
+  Time 1188: Position (3, 2)
+  Time 1197: Position (3, 1)
+  Time 1206: Position (3, 0)
+  Time 1206: Position out
+Car 202 movement history:
+  Time 1127: Position in
+  Time 1133: Position (2, 9)
+  Time 1134: Position (2, 8)
+  Time 1143: Position (2, 7)
+  Time 1152: Position (2, 6)
+  Time 1161: Position (2, 5)
+  Time 1170: Position (2, 4)
+  Time 1179: Position (2, 3)
+  Time 1188: Position (2, 2)
+  Time 1197: Position (2, 1)
+  Time 1206: Position (2, 0)
+  Time 1212: Position out
+Car 203 movement history:
+  Time 1133: Position in
+  Time 1145: Position (1, 9)
+  Time 1134: Position (1, 8)
+  Time 1143: Position (1, 7)
+  Time 1152: Position (1, 6)
+  Time 1161: Position (1, 5)
+  Time 1170: Position (1, 4)
+  Time 1179: Position (1, 3)
+  Time 1188: Position (1, 2)
+  Time 1197: Position (1, 1)
+  Time 1206: Position (1, 0)
+  Time 1218: Position out
+Car 204 movement history:
+  Time 1145: Position in
+  Time 1145: Position (3, 9)
+  Time 1152: Position (3, 8)
+  Time 1161: Position (3, 7)
+  Time 1170: Position (3, 6)
+  Time 1179: Position (3, 5)
+  Time 1188: Position (3, 4)
+  Time 1197: Position (3, 3)
+  Time 1206: Position (3, 2)
+  Time 1215: Position (3, 1)
+  Time 1224: Position (3, 0)
+  Time 1224: Position out
+Car 205 movement history:
+  Time 1146: Position in
+  Time 1152: Position (2, 9)
+  Time 1152: Position (2, 8)
+  Time 1161: Position (2, 7)
+  Time 1170: Position (2, 6)
+  Time 1179: Position (2, 5)
+  Time 1188: Position (2, 4)
+  Time 1197: Position (2, 3)
+  Time 1206: Position (2, 2)
+  Time 1215: Position (2, 1)
+  Time 1224: Position (2, 0)
+  Time 1230: Position out
+Car 206 movement history:
+  Time 1152: Position in
+  Time 1152: Position (3, 9)
+  Time 1161: Position (3, 8)
+  Time 1170: Position (3, 7)
+  Time 1179: Position (3, 6)
+  Time 1188: Position (3, 5)
+  Time 1197: Position (3, 4)
+  Time 1206: Position (3, 3)
+  Time 1215: Position (3, 2)
+  Time 1224: Position (3, 1)
+  Time 1233: Position (3, 0)
+  Time 1233: Position out
+Car 207 movement history:
+  Time 1153: Position in
+  Time 1159: Position (2, 9)
+  Time 1161: Position (2, 8)
+  Time 1170: Position (2, 7)
+  Time 1179: Position (2, 6)
+  Time 1188: Position (2, 5)
+  Time 1197: Position (2, 4)
+  Time 1206: Position (2, 3)
+  Time 1215: Position (2, 2)
+  Time 1224: Position (2, 1)
+  Time 1233: Position (2, 0)
+  Time 1239: Position out
+Car 208 movement history:
+  Time 1159: Position in
+  Time 1171: Position (1, 9)
+  Time 1161: Position (1, 8)
+  Time 1170: Position (1, 7)
+  Time 1179: Position (1, 6)
+  Time 1188: Position (1, 5)
+  Time 1197: Position (1, 4)
+  Time 1206: Position (1, 3)
+  Time 1215: Position (1, 2)
+  Time 1224: Position (1, 1)
+  Time 1233: Position (1, 0)
+  Time 1245: Position out
+Car 209 movement history:
+  Time 1171: Position in
+  Time 1171: Position (3, 9)
+  Time 1179: Position (3, 8)
+  Time 1188: Position (3, 7)
+  Time 1197: Position (3, 6)
+  Time 1206: Position (3, 5)
+  Time 1215: Position (3, 4)
+  Time 1224: Position (3, 3)
+  Time 1233: Position (3, 2)
+  Time 1242: Position (3, 1)
+  Time 1251: Position (3, 0)
+  Time 1251: Position out
+Car 210 movement history:
+  Time 1172: Position in
+  Time 1178: Position (2, 9)
+  Time 1179: Position (2, 8)
+  Time 1188: Position (2, 7)
+  Time 1197: Position (2, 6)
+  Time 1206: Position (2, 5)
+  Time 1215: Position (2, 4)
+  Time 1224: Position (2, 3)
+  Time 1233: Position (2, 2)
+  Time 1242: Position (2, 1)
+  Time 1251: Position (2, 0)
+  Time 1257: Position out
+Car 211 movement history:
+  Time 1178: Position in
+  Time 1190: Position (1, 9)
+  Time 1179: Position (1, 8)
+  Time 1188: Position (1, 7)
+  Time 1197: Position (1, 6)
+  Time 1206: Position (1, 5)
+  Time 1215: Position (1, 4)
+  Time 1224: Position (1, 3)
+  Time 1233: Position (1, 2)
+  Time 1242: Position (1, 1)
+  Time 1251: Position (1, 0)
+  Time 1263: Position out
+Car 212 movement history:
+  Time 1190: Position in
+  Time 1190: Position (3, 9)
+  Time 1197: Position (3, 8)
+  Time 1206: Position (3, 7)
+  Time 1215: Position (3, 6)
+  Time 1224: Position (3, 5)
+  Time 1233: Position (3, 4)
+  Time 1242: Position (3, 3)
+  Time 1251: Position (3, 2)
+  Time 1260: Position (3, 1)
+  Time 1269: Position (3, 0)
+  Time 1269: Position out
+Car 213 movement history:
+  Time 1191: Position in
+  Time 1197: Position (2, 9)
+  Time 1197: Position (2, 8)
+  Time 1206: Position (2, 7)
+  Time 1215: Position (2, 6)
+  Time 1224: Position (2, 5)
+  Time 1233: Position (2, 4)
+  Time 1242: Position (2, 3)
+  Time 1251: Position (2, 2)
+  Time 1260: Position (2, 1)
+  Time 1269: Position (2, 0)
+  Time 1275: Position out
+Car 214 movement history:
+  Time 1197: Position in
+  Time 1197: Position (3, 9)
+  Time 1206: Position (3, 8)
+  Time 1215: Position (3, 7)
+  Time 1224: Position (3, 6)
+  Time 1233: Position (3, 5)
+  Time 1242: Position (3, 4)
+  Time 1251: Position (3, 3)
+  Time 1260: Position (3, 2)
+  Time 1269: Position (3, 1)
+  Time 1278: Position (3, 0)
+  Time 1278: Position out
+Car 215 movement history:
+  Time 1198: Position in
+  Time 1204: Position (2, 9)
+  Time 1206: Position (2, 8)
+  Time 1215: Position (2, 7)
+  Time 1224: Position (2, 6)
+  Time 1233: Position (2, 5)
+  Time 1242: Position (2, 4)
+  Time 1251: Position (2, 3)
+  Time 1260: Position (2, 2)
+  Time 1269: Position (2, 1)
+  Time 1278: Position (2, 0)
+  Time 1284: Position out
+Car 216 movement history:
+  Time 1204: Position in
+  Time 1216: Position (1, 9)
+  Time 1206: Position (1, 8)
+  Time 1215: Position (1, 7)
+  Time 1224: Position (1, 6)
+  Time 1233: Position (1, 5)
+  Time 1242: Position (1, 4)
+  Time 1251: Position (1, 3)
+  Time 1260: Position (1, 2)
+  Time 1269: Position (1, 1)
+  Time 1278: Position (1, 0)
+  Time 1290: Position out
+Car 217 movement history:
+  Time 1216: Position in
+  Time 1216: Position (3, 9)
+  Time 1224: Position (3, 8)
+  Time 1233: Position (3, 7)
+  Time 1242: Position (3, 6)
+  Time 1251: Position (3, 5)
+  Time 1260: Position (3, 4)
+  Time 1269: Position (3, 3)
+  Time 1278: Position (3, 2)
+  Time 1287: Position (3, 1)
+  Time 1296: Position (3, 0)
+  Time 1296: Position out
+Car 218 movement history:
+  Time 1217: Position in
+  Time 1223: Position (2, 9)
+  Time 1224: Position (2, 8)
+  Time 1233: Position (2, 7)
+  Time 1242: Position (2, 6)
+  Time 1251: Position (2, 5)
+  Time 1260: Position (2, 4)
+  Time 1269: Position (2, 3)
+  Time 1278: Position (2, 2)
+  Time 1287: Position (2, 1)
+  Time 1296: Position (2, 0)
+  Time 1302: Position out
+Car 219 movement history:
+  Time 1223: Position in
+  Time 1235: Position (1, 9)
+  Time 1224: Position (1, 8)
+  Time 1233: Position (1, 7)
+  Time 1242: Position (1, 6)
+  Time 1251: Position (1, 5)
+  Time 1260: Position (1, 4)
+  Time 1269: Position (1, 3)
+  Time 1278: Position (1, 2)
+  Time 1287: Position (1, 1)
+  Time 1296: Position (1, 0)
+  Time 1308: Position out
+Car 220 movement history:
+  Time 1235: Position in
+  Time 1235: Position (3, 9)
+  Time 1242: Position (3, 8)
+  Time 1251: Position (3, 7)
+  Time 1260: Position (3, 6)
+  Time 1269: Position (3, 5)
+  Time 1278: Position (3, 4)
+  Time 1287: Position (3, 3)
+  Time 1296: Position (3, 2)
+  Time 1305: Position (3, 1)
+  Time 1314: Position (3, 0)
+  Time 1314: Position out
+Car 221 movement history:
+  Time 1236: Position in
+  Time 1242: Position (2, 9)
+  Time 1242: Position (2, 8)
+  Time 1251: Position (2, 7)
+  Time 1260: Position (2, 6)
+  Time 1269: Position (2, 5)
+  Time 1278: Position (2, 4)
+  Time 1287: Position (2, 3)
+  Time 1296: Position (2, 2)
+  Time 1305: Position (2, 1)
+  Time 1314: Position (2, 0)
+  Time 1320: Position out
+Car 222 movement history:
+  Time 1242: Position in
+  Time 1242: Position (3, 9)
+  Time 1251: Position (3, 8)
+  Time 1260: Position (3, 7)
+  Time 1269: Position (3, 6)
+  Time 1278: Position (3, 5)
+  Time 1287: Position (3, 4)
+  Time 1296: Position (3, 3)
+  Time 1305: Position (3, 2)
+  Time 1314: Position (3, 1)
+  Time 1323: Position (3, 0)
+  Time 1323: Position out
+Car 223 movement history:
+  Time 1243: Position in
+  Time 1249: Position (2, 9)
+  Time 1251: Position (2, 8)
+  Time 1260: Position (2, 7)
+  Time 1269: Position (2, 6)
+  Time 1278: Position (2, 5)
+  Time 1287: Position (2, 4)
+  Time 1296: Position (2, 3)
+  Time 1305: Position (2, 2)
+  Time 1314: Position (2, 1)
+  Time 1323: Position (2, 0)
+  Time 1329: Position out
+Car 224 movement history:
+  Time 1249: Position in
+  Time 1261: Position (1, 9)
+  Time 1251: Position (1, 8)
+  Time 1260: Position (1, 7)
+  Time 1269: Position (1, 6)
+  Time 1278: Position (1, 5)
+  Time 1287: Position (1, 4)
+  Time 1296: Position (1, 3)
+  Time 1305: Position (1, 2)
+  Time 1314: Position (1, 1)
+  Time 1323: Position (1, 0)
+  Time 1335: Position out
+Car 225 movement history:
+  Time 1261: Position in
+  Time 1261: Position (3, 9)
+  Time 1269: Position (3, 8)
+  Time 1278: Position (3, 7)
+  Time 1287: Position (3, 6)
+  Time 1296: Position (3, 5)
+  Time 1305: Position (3, 4)
+  Time 1314: Position (3, 3)
+  Time 1323: Position (3, 2)
+  Time 1332: Position (3, 1)
+  Time 1341: Position (3, 0)
+  Time 1341: Position out
+Car 226 movement history:
+  Time 1262: Position in
+  Time 1268: Position (2, 9)
+  Time 1269: Position (2, 8)
+  Time 1278: Position (2, 7)
+  Time 1287: Position (2, 6)
+  Time 1296: Position (2, 5)
+  Time 1305: Position (2, 4)
+  Time 1314: Position (2, 3)
+  Time 1323: Position (2, 2)
+  Time 1332: Position (2, 1)
+  Time 1341: Position (2, 0)
+  Time 1347: Position out
+Car 227 movement history:
+  Time 1268: Position in
+  Time 1280: Position (1, 9)
+  Time 1269: Position (1, 8)
+  Time 1278: Position (1, 7)
+  Time 1287: Position (1, 6)
+  Time 1296: Position (1, 5)
+  Time 1305: Position (1, 4)
+  Time 1314: Position (1, 3)
+  Time 1323: Position (1, 2)
+  Time 1332: Position (1, 1)
+  Time 1341: Position (1, 0)
+  Time 1353: Position out
+Car 228 movement history:
+  Time 1280: Position in
+  Time 1280: Position (3, 9)
+  Time 1287: Position (3, 8)
+  Time 1296: Position (3, 7)
+  Time 1305: Position (3, 6)
+  Time 1314: Position (3, 5)
+  Time 1323: Position (3, 4)
+  Time 1332: Position (3, 3)
+  Time 1341: Position (3, 2)
+  Time 1350: Position (3, 1)
+  Time 1359: Position (3, 0)
+  Time 1359: Position out
+Car 229 movement history:
+  Time 1281: Position in
+  Time 1287: Position (2, 9)
+  Time 1287: Position (2, 8)
+  Time 1296: Position (2, 7)
+  Time 1305: Position (2, 6)
+  Time 1314: Position (2, 5)
+  Time 1323: Position (2, 4)
+  Time 1332: Position (2, 3)
+  Time 1341: Position (2, 2)
+  Time 1350: Position (2, 1)
+  Time 1359: Position (2, 0)
+  Time 1365: Position out
+Car 230 movement history:
+  Time 1287: Position in
+  Time 1287: Position (3, 9)
+  Time 1296: Position (3, 8)
+  Time 1305: Position (3, 7)
+  Time 1314: Position (3, 6)
+  Time 1323: Position (3, 5)
+  Time 1332: Position (3, 4)
+  Time 1341: Position (3, 3)
+  Time 1350: Position (3, 2)
+  Time 1359: Position (3, 1)
+  Time 1368: Position (3, 0)
+  Time 1368: Position out
+Car 231 movement history:
+  Time 1288: Position in
+  Time 1294: Position (2, 9)
+  Time 1296: Position (2, 8)
+  Time 1305: Position (2, 7)
+  Time 1314: Position (2, 6)
+  Time 1323: Position (2, 5)
+  Time 1332: Position (2, 4)
+  Time 1341: Position (2, 3)
+  Time 1350: Position (2, 2)
+  Time 1359: Position (2, 1)
+  Time 1368: Position (2, 0)
+  Time 1374: Position out
+Car 232 movement history:
+  Time 1294: Position in
+  Time 1306: Position (1, 9)
+  Time 1296: Position (1, 8)
+  Time 1305: Position (1, 7)
+  Time 1314: Position (1, 6)
+  Time 1323: Position (1, 5)
+  Time 1332: Position (1, 4)
+  Time 1341: Position (1, 3)
+  Time 1350: Position (1, 2)
+  Time 1359: Position (1, 1)
+  Time 1368: Position (1, 0)
+  Time 1380: Position out
+Car 233 movement history:
+  Time 1306: Position in
+  Time 1306: Position (3, 9)
+  Time 1314: Position (3, 8)
+  Time 1323: Position (3, 7)
+  Time 1332: Position (3, 6)
+  Time 1341: Position (3, 5)
+  Time 1350: Position (3, 4)
+  Time 1359: Position (3, 3)
+  Time 1368: Position (3, 2)
+  Time 1377: Position (3, 1)
+  Time 1386: Position (3, 0)
+  Time 1386: Position out
+Car 234 movement history:
+  Time 1307: Position in
+  Time 1313: Position (2, 9)
+  Time 1314: Position (2, 8)
+  Time 1323: Position (2, 7)
+  Time 1332: Position (2, 6)
+  Time 1341: Position (2, 5)
+  Time 1350: Position (2, 4)
+  Time 1359: Position (2, 3)
+  Time 1368: Position (2, 2)
+  Time 1377: Position (2, 1)
+  Time 1386: Position (2, 0)
+  Time 1392: Position out
+Car 235 movement history:
+  Time 1313: Position in
+  Time 1325: Position (1, 9)
+  Time 1314: Position (1, 8)
+  Time 1323: Position (1, 7)
+  Time 1332: Position (1, 6)
+  Time 1341: Position (1, 5)
+  Time 1350: Position (1, 4)
+  Time 1359: Position (1, 3)
+  Time 1368: Position (1, 2)
+  Time 1377: Position (1, 1)
+  Time 1386: Position (1, 0)
+  Time 1398: Position out
+Car 236 movement history:
+  Time 1325: Position in
+  Time 1325: Position (3, 9)
+  Time 1332: Position (3, 8)
+  Time 1341: Position (3, 7)
+  Time 1350: Position (3, 6)
+  Time 1359: Position (3, 5)
+  Time 1368: Position (3, 4)
+  Time 1377: Position (3, 3)
+  Time 1386: Position (3, 2)
+  Time 1395: Position (3, 1)
+  Time 1404: Position (3, 0)
+  Time 1404: Position out
+Car 237 movement history:
+  Time 1326: Position in
+  Time 1332: Position (2, 9)
+  Time 1332: Position (2, 8)
+  Time 1341: Position (2, 7)
+  Time 1350: Position (2, 6)
+  Time 1359: Position (2, 5)
+  Time 1368: Position (2, 4)
+  Time 1377: Position (2, 3)
+  Time 1386: Position (2, 2)
+  Time 1395: Position (2, 1)
+  Time 1404: Position (2, 0)
+  Time 1410: Position out
+Car 238 movement history:
+  Time 1332: Position in
+  Time 1332: Position (3, 9)
+  Time 1341: Position (3, 8)
+  Time 1350: Position (3, 7)
+  Time 1359: Position (3, 6)
+  Time 1368: Position (3, 5)
+  Time 1377: Position (3, 4)
+  Time 1386: Position (3, 3)
+  Time 1395: Position (3, 2)
+  Time 1404: Position (3, 1)
+  Time 1413: Position (3, 0)
+  Time 1413: Position out
+Car 239 movement history:
+  Time 1333: Position in
+  Time 1339: Position (2, 9)
+  Time 1341: Position (2, 8)
+  Time 1350: Position (2, 7)
+  Time 1359: Position (2, 6)
+  Time 1368: Position (2, 5)
+  Time 1377: Position (2, 4)
+  Time 1386: Position (2, 3)
+  Time 1395: Position (2, 2)
+  Time 1404: Position (2, 1)
+  Time 1413: Position (2, 0)
+  Time 1419: Position out
+Car 240 movement history:
+  Time 1339: Position in
+  Time 1351: Position (1, 9)
+  Time 1341: Position (1, 8)
+  Time 1350: Position (1, 7)
+  Time 1359: Position (1, 6)
+  Time 1368: Position (1, 5)
+  Time 1377: Position (1, 4)
+  Time 1386: Position (1, 3)
+  Time 1395: Position (1, 2)
+  Time 1404: Position (1, 1)
+  Time 1413: Position (1, 0)
+  Time 1425: Position out
+Car 241 movement history:
+  Time 1351: Position in
+  Time 1351: Position (3, 9)
+  Time 1359: Position (3, 8)
+  Time 1368: Position (3, 7)
+  Time 1377: Position (3, 6)
+  Time 1386: Position (3, 5)
+  Time 1395: Position (3, 4)
+  Time 1404: Position (3, 3)
+  Time 1413: Position (3, 2)
+  Time 1422: Position (3, 1)
+  Time 1431: Position (3, 0)
+  Time 1431: Position out
+Car 242 movement history:
+  Time 1352: Position in
+  Time 1358: Position (2, 9)
+  Time 1359: Position (2, 8)
+  Time 1368: Position (2, 7)
+  Time 1377: Position (2, 6)
+  Time 1386: Position (2, 5)
+  Time 1395: Position (2, 4)
+  Time 1404: Position (2, 3)
+  Time 1413: Position (2, 2)
+  Time 1422: Position (2, 1)
+  Time 1431: Position (2, 0)
+  Time 1437: Position out
+Car 243 movement history:
+  Time 1358: Position in
+  Time 1370: Position (1, 9)
+  Time 1359: Position (1, 8)
+  Time 1368: Position (1, 7)
+  Time 1377: Position (1, 6)
+  Time 1386: Position (1, 5)
+  Time 1395: Position (1, 4)
+  Time 1404: Position (1, 3)
+  Time 1413: Position (1, 2)
+  Time 1422: Position (1, 1)
+  Time 1431: Position (1, 0)
+  Time 1443: Position out
+Car 244 movement history:
+  Time 1370: Position in
+  Time 1370: Position (3, 9)
+  Time 1377: Position (3, 8)
+  Time 1386: Position (3, 7)
+  Time 1395: Position (3, 6)
+  Time 1404: Position (3, 5)
+  Time 1413: Position (3, 4)
+  Time 1422: Position (3, 3)
+  Time 1431: Position (3, 2)
+  Time 1440: Position (3, 1)
+  Time 1449: Position (3, 0)
+  Time 1449: Position out
+Car 245 movement history:
+  Time 1371: Position in
+  Time 1377: Position (2, 9)
+  Time 1377: Position (2, 8)
+  Time 1386: Position (2, 7)
+  Time 1395: Position (2, 6)
+  Time 1404: Position (2, 5)
+  Time 1413: Position (2, 4)
+  Time 1422: Position (2, 3)
+  Time 1431: Position (2, 2)
+  Time 1440: Position (2, 1)
+  Time 1449: Position (2, 0)
+  Time 1455: Position out
+Car 246 movement history:
+  Time 1377: Position in
+  Time 1377: Position (3, 9)
+  Time 1386: Position (3, 8)
+  Time 1395: Position (3, 7)
+  Time 1404: Position (3, 6)
+  Time 1413: Position (3, 5)
+  Time 1422: Position (3, 4)
+  Time 1431: Position (3, 3)
+  Time 1440: Position (3, 2)
+  Time 1449: Position (3, 1)
+  Time 1458: Position (3, 0)
+  Time 1458: Position out
+Car 247 movement history:
+  Time 1378: Position in
+  Time 1384: Position (2, 9)
+  Time 1386: Position (2, 8)
+  Time 1395: Position (2, 7)
+  Time 1404: Position (2, 6)
+  Time 1413: Position (2, 5)
+  Time 1422: Position (2, 4)
+  Time 1431: Position (2, 3)
+  Time 1440: Position (2, 2)
+  Time 1449: Position (2, 1)
+  Time 1458: Position (2, 0)
+  Time 1464: Position out
+Car 248 movement history:
+  Time 1384: Position in
+  Time 1396: Position (1, 9)
+  Time 1386: Position (1, 8)
+  Time 1395: Position (1, 7)
+  Time 1404: Position (1, 6)
+  Time 1413: Position (1, 5)
+  Time 1422: Position (1, 4)
+  Time 1431: Position (1, 3)
+  Time 1440: Position (1, 2)
+  Time 1449: Position (1, 1)
+  Time 1458: Position (1, 0)
+  Time 1470: Position out
+Car 249 movement history:
+  Time 1396: Position in
+  Time 1396: Position (3, 9)
+  Time 1404: Position (3, 8)
+  Time 1413: Position (3, 7)
+  Time 1422: Position (3, 6)
+  Time 1431: Position (3, 5)
+  Time 1440: Position (3, 4)
+  Time 1449: Position (3, 3)
+  Time 1458: Position (3, 2)
+  Time 1467: Position (3, 1)
+  Time 1476: Position (3, 0)
+  Time 1476: Position out
+Car 250 movement history:
+  Time 1397: Position in
+  Time 1403: Position (2, 9)
+  Time 1404: Position (2, 8)
+  Time 1413: Position (2, 7)
+  Time 1422: Position (2, 6)
+  Time 1431: Position (2, 5)
+  Time 1440: Position (2, 4)
+  Time 1449: Position (2, 3)
+  Time 1458: Position (2, 2)
+  Time 1467: Position (2, 1)
+  Time 1476: Position (2, 0)
+  Time 1482: Position out
+Car 251 movement history:
+  Time 1403: Position in
+  Time 1415: Position (1, 9)
+  Time 1404: Position (1, 8)
+  Time 1413: Position (1, 7)
+  Time 1422: Position (1, 6)
+  Time 1431: Position (1, 5)
+  Time 1440: Position (1, 4)
+  Time 1449: Position (1, 3)
+  Time 1458: Position (1, 2)
+  Time 1467: Position (1, 1)
+  Time 1476: Position (1, 0)
+  Time 1488: Position out
+Car 252 movement history:
+  Time 1415: Position in
+  Time 1415: Position (3, 9)
+  Time 1422: Position (3, 8)
+  Time 1431: Position (3, 7)
+  Time 1440: Position (3, 6)
+  Time 1449: Position (3, 5)
+  Time 1458: Position (3, 4)
+  Time 1467: Position (3, 3)
+  Time 1476: Position (3, 2)
+  Time 1485: Position (3, 1)
+  Time 1494: Position (3, 0)
+  Time 1494: Position out
+Car 253 movement history:
+  Time 1416: Position in
+  Time 1422: Position (2, 9)
+  Time 1422: Position (2, 8)
+  Time 1431: Position (2, 7)
+  Time 1440: Position (2, 6)
+  Time 1449: Position (2, 5)
+  Time 1458: Position (2, 4)
+  Time 1467: Position (2, 3)
+  Time 1476: Position (2, 2)
+  Time 1485: Position (2, 1)
+  Time 1494: Position (2, 0)
+  Time 1500: Position out
+Car 254 movement history:
+  Time 1422: Position in
+  Time 1422: Position (3, 9)
+  Time 1431: Position (3, 8)
+  Time 1440: Position (3, 7)
+  Time 1449: Position (3, 6)
+  Time 1458: Position (3, 5)
+  Time 1467: Position (3, 4)
+  Time 1476: Position (3, 3)
+  Time 1485: Position (3, 2)
+  Time 1494: Position (3, 1)
+  Time 1503: Position (3, 0)
+  Time 1503: Position out
+Car 255 movement history:
+  Time 1423: Position in
+  Time 1429: Position (2, 9)
+  Time 1431: Position (2, 8)
+  Time 1440: Position (2, 7)
+  Time 1449: Position (2, 6)
+  Time 1458: Position (2, 5)
+  Time 1467: Position (2, 4)
+  Time 1476: Position (2, 3)
+  Time 1485: Position (2, 2)
+  Time 1494: Position (2, 1)
+  Time 1503: Position (2, 0)
+  Time 1509: Position out
+Car 256 movement history:
+  Time 1429: Position in
+  Time 1441: Position (1, 9)
+  Time 1431: Position (1, 8)
+  Time 1440: Position (1, 7)
+  Time 1449: Position (1, 6)
+  Time 1458: Position (1, 5)
+  Time 1467: Position (1, 4)
+  Time 1476: Position (1, 3)
+  Time 1485: Position (1, 2)
+  Time 1494: Position (1, 1)
+  Time 1503: Position (1, 0)
+  Time 1515: Position out
+Car 257 movement history:
+  Time 1441: Position in
+  Time 1441: Position (3, 9)
+  Time 1449: Position (3, 8)
+  Time 1458: Position (3, 7)
+  Time 1467: Position (3, 6)
+  Time 1476: Position (3, 5)
+  Time 1485: Position (3, 4)
+  Time 1494: Position (3, 3)
+  Time 1503: Position (3, 2)
+  Time 1512: Position (3, 1)
+  Time 1521: Position (3, 0)
+  Time 1521: Position out
+Car 258 movement history:
+  Time 1442: Position in
+  Time 1448: Position (2, 9)
+  Time 1449: Position (2, 8)
+  Time 1458: Position (2, 7)
+  Time 1467: Position (2, 6)
+  Time 1476: Position (2, 5)
+  Time 1485: Position (2, 4)
+  Time 1494: Position (2, 3)
+  Time 1503: Position (2, 2)
+  Time 1512: Position (2, 1)
+  Time 1521: Position (2, 0)
+  Time 1527: Position out
+Car 259 movement history:
+  Time 1448: Position in
+  Time 1460: Position (1, 9)
+  Time 1449: Position (1, 8)
+  Time 1458: Position (1, 7)
+  Time 1467: Position (1, 6)
+  Time 1476: Position (1, 5)
+  Time 1485: Position (1, 4)
+  Time 1494: Position (1, 3)
+  Time 1503: Position (1, 2)
+  Time 1512: Position (1, 1)
+  Time 1521: Position (1, 0)
+  Time 1533: Position out
+Car 260 movement history:
+  Time 1460: Position in
+  Time 1460: Position (3, 9)
+  Time 1467: Position (3, 8)
+  Time 1476: Position (3, 7)
+  Time 1485: Position (3, 6)
+  Time 1494: Position (3, 5)
+  Time 1503: Position (3, 4)
+  Time 1512: Position (3, 3)
+  Time 1521: Position (3, 2)
+  Time 1530: Position (3, 1)
+  Time 1539: Position (3, 0)
+  Time 1539: Position out
+Car 261 movement history:
+  Time 1461: Position in
+  Time 1467: Position (2, 9)
+  Time 1467: Position (2, 8)
+  Time 1476: Position (2, 7)
+  Time 1485: Position (2, 6)
+  Time 1494: Position (2, 5)
+  Time 1503: Position (2, 4)
+  Time 1512: Position (2, 3)
+  Time 1521: Position (2, 2)
+  Time 1530: Position (2, 1)
+  Time 1539: Position (2, 0)
+  Time 1545: Position out
+Car 262 movement history:
+  Time 1467: Position in
+  Time 1467: Position (3, 9)
+  Time 1476: Position (3, 8)
+  Time 1485: Position (3, 7)
+  Time 1494: Position (3, 6)
+  Time 1503: Position (3, 5)
+  Time 1512: Position (3, 4)
+  Time 1521: Position (3, 3)
+  Time 1530: Position (3, 2)
+  Time 1539: Position (3, 1)
+  Time 1548: Position (3, 0)
+  Time 1548: Position out
+Car 263 movement history:
+  Time 1468: Position in
+  Time 1474: Position (2, 9)
+  Time 1476: Position (2, 8)
+  Time 1485: Position (2, 7)
+  Time 1494: Position (2, 6)
+  Time 1503: Position (2, 5)
+  Time 1512: Position (2, 4)
+  Time 1521: Position (2, 3)
+  Time 1530: Position (2, 2)
+  Time 1539: Position (2, 1)
+  Time 1548: Position (2, 0)
+  Time 1554: Position out
+Car 264 movement history:
+  Time 1474: Position in
+  Time 1486: Position (1, 9)
+  Time 1476: Position (1, 8)
+  Time 1485: Position (1, 7)
+  Time 1494: Position (1, 6)
+  Time 1503: Position (1, 5)
+  Time 1512: Position (1, 4)
+  Time 1521: Position (1, 3)
+  Time 1530: Position (1, 2)
+  Time 1539: Position (1, 1)
+  Time 1548: Position (1, 0)
+  Time 1560: Position out
+Car 265 movement history:
+  Time 1486: Position in
+  Time 1486: Position (3, 9)
+  Time 1494: Position (3, 8)
+  Time 1503: Position (3, 7)
+  Time 1512: Position (3, 6)
+  Time 1521: Position (3, 5)
+  Time 1530: Position (3, 4)
+  Time 1539: Position (3, 3)
+  Time 1548: Position (3, 2)
+  Time 1557: Position (3, 1)
+  Time 1566: Position (3, 0)
+  Time 1566: Position out
+Car 266 movement history:
+  Time 1487: Position in
+  Time 1493: Position (2, 9)
+  Time 1494: Position (2, 8)
+  Time 1503: Position (2, 7)
+  Time 1512: Position (2, 6)
+  Time 1521: Position (2, 5)
+  Time 1530: Position (2, 4)
+  Time 1539: Position (2, 3)
+  Time 1548: Position (2, 2)
+  Time 1557: Position (2, 1)
+  Time 1566: Position (2, 0)
+  Time 1572: Position out
+Car 267 movement history:
+  Time 1493: Position in
+  Time 1505: Position (1, 9)
+  Time 1494: Position (1, 8)
+  Time 1503: Position (1, 7)
+  Time 1512: Position (1, 6)
+  Time 1521: Position (1, 5)
+  Time 1530: Position (1, 4)
+  Time 1539: Position (1, 3)
+  Time 1548: Position (1, 2)
+  Time 1557: Position (1, 1)
+  Time 1566: Position (1, 0)
+  Time 1578: Position out
+Car 268 movement history:
+  Time 1505: Position in
+  Time 1505: Position (3, 9)
+  Time 1512: Position (3, 8)
+  Time 1521: Position (3, 7)
+  Time 1530: Position (3, 6)
+  Time 1539: Position (3, 5)
+  Time 1548: Position (3, 4)
+  Time 1557: Position (3, 3)
+  Time 1566: Position (3, 2)
+  Time 1575: Position (3, 1)
+  Time 1584: Position (3, 0)
+  Time 1584: Position out
+Car 269 movement history:
+  Time 1506: Position in
+  Time 1512: Position (2, 9)
+  Time 1512: Position (2, 8)
+  Time 1521: Position (2, 7)
+  Time 1530: Position (2, 6)
+  Time 1539: Position (2, 5)
+  Time 1548: Position (2, 4)
+  Time 1557: Position (2, 3)
+  Time 1566: Position (2, 2)
+  Time 1575: Position (2, 1)
+  Time 1584: Position (2, 0)
+  Time 1590: Position out
+Car 270 movement history:
+  Time 1512: Position in
+  Time 1512: Position (3, 9)
+  Time 1521: Position (3, 8)
+  Time 1530: Position (3, 7)
+  Time 1539: Position (3, 6)
+  Time 1548: Position (3, 5)
+  Time 1557: Position (3, 4)
+  Time 1566: Position (3, 3)
+  Time 1575: Position (3, 2)
+  Time 1584: Position (3, 1)
+  Time 1593: Position (3, 0)
+  Time 1593: Position out
+Car 271 movement history:
+  Time 1513: Position in
+  Time 1519: Position (2, 9)
+  Time 1521: Position (2, 8)
+  Time 1530: Position (2, 7)
+  Time 1539: Position (2, 6)
+  Time 1548: Position (2, 5)
+  Time 1557: Position (2, 4)
+  Time 1566: Position (2, 3)
+  Time 1575: Position (2, 2)
+  Time 1584: Position (2, 1)
+  Time 1593: Position (2, 0)
+  Time 1599: Position out
+Car 272 movement history:
+  Time 1519: Position in
+  Time 1531: Position (1, 9)
+  Time 1521: Position (1, 8)
+  Time 1530: Position (1, 7)
+  Time 1539: Position (1, 6)
+  Time 1548: Position (1, 5)
+  Time 1557: Position (1, 4)
+  Time 1566: Position (1, 3)
+  Time 1575: Position (1, 2)
+  Time 1584: Position (1, 1)
+  Time 1593: Position (1, 0)
+  Time 1605: Position out
+Car 273 movement history:
+  Time 1531: Position in
+  Time 1531: Position (3, 9)
+  Time 1539: Position (3, 8)
+  Time 1548: Position (3, 7)
+  Time 1557: Position (3, 6)
+  Time 1566: Position (3, 5)
+  Time 1575: Position (3, 4)
+  Time 1584: Position (3, 3)
+  Time 1593: Position (3, 2)
+  Time 1602: Position (3, 1)
+  Time 1611: Position (3, 0)
+  Time 1611: Position out
+Car 274 movement history:
+  Time 1532: Position in
+  Time 1538: Position (2, 9)
+  Time 1539: Position (2, 8)
+  Time 1548: Position (2, 7)
+  Time 1557: Position (2, 6)
+  Time 1566: Position (2, 5)
+  Time 1575: Position (2, 4)
+  Time 1584: Position (2, 3)
+  Time 1593: Position (2, 2)
+  Time 1602: Position (2, 1)
+  Time 1611: Position (2, 0)
+  Time 1617: Position out
+Car 275 movement history:
+  Time 1538: Position in
+  Time 1550: Position (1, 9)
+  Time 1539: Position (1, 8)
+  Time 1548: Position (1, 7)
+  Time 1557: Position (1, 6)
+  Time 1566: Position (1, 5)
+  Time 1575: Position (1, 4)
+  Time 1584: Position (1, 3)
+  Time 1593: Position (1, 2)
+  Time 1602: Position (1, 1)
+  Time 1611: Position (1, 0)
+  Time 1623: Position out
+Car 276 movement history:
+  Time 1550: Position in
+  Time 1550: Position (3, 9)
+  Time 1557: Position (3, 8)
+  Time 1566: Position (3, 7)
+  Time 1575: Position (3, 6)
+  Time 1584: Position (3, 5)
+  Time 1593: Position (3, 4)
+  Time 1602: Position (3, 3)
+  Time 1611: Position (3, 2)
+  Time 1620: Position (3, 1)
+  Time 1629: Position (3, 0)
+  Time 1629: Position out
+Car 277 movement history:
+  Time 1551: Position in
+  Time 1557: Position (2, 9)
+  Time 1557: Position (2, 8)
+  Time 1566: Position (2, 7)
+  Time 1575: Position (2, 6)
+  Time 1584: Position (2, 5)
+  Time 1593: Position (2, 4)
+  Time 1602: Position (2, 3)
+  Time 1611: Position (2, 2)
+  Time 1620: Position (2, 1)
+  Time 1629: Position (2, 0)
+  Time 1635: Position out
+Car 278 movement history:
+  Time 1557: Position in
+  Time 1557: Position (3, 9)
+  Time 1566: Position (3, 8)
+  Time 1575: Position (3, 7)
+  Time 1584: Position (3, 6)
+  Time 1593: Position (3, 5)
+  Time 1602: Position (3, 4)
+  Time 1611: Position (3, 3)
+  Time 1620: Position (3, 2)
+  Time 1629: Position (3, 1)
+  Time 1638: Position (3, 0)
+  Time 1638: Position out
+Car 279 movement history:
+  Time 1558: Position in
+  Time 1564: Position (2, 9)
+  Time 1566: Position (2, 8)
+  Time 1575: Position (2, 7)
+  Time 1584: Position (2, 6)
+  Time 1593: Position (2, 5)
+  Time 1602: Position (2, 4)
+  Time 1611: Position (2, 3)
+  Time 1620: Position (2, 2)
+  Time 1629: Position (2, 1)
+  Time 1638: Position (2, 0)
+  Time 1644: Position out
+Car 280 movement history:
+  Time 1564: Position in
+  Time 1576: Position (1, 9)
+  Time 1566: Position (1, 8)
+  Time 1575: Position (1, 7)
+  Time 1584: Position (1, 6)
+  Time 1593: Position (1, 5)
+  Time 1602: Position (1, 4)
+  Time 1611: Position (1, 3)
+  Time 1620: Position (1, 2)
+  Time 1629: Position (1, 1)
+  Time 1638: Position (1, 0)
+  Time 1650: Position out
+Car 281 movement history:
+  Time 1576: Position in
+  Time 1576: Position (3, 9)
+  Time 1584: Position (3, 8)
+  Time 1593: Position (3, 7)
+  Time 1602: Position (3, 6)
+  Time 1611: Position (3, 5)
+  Time 1620: Position (3, 4)
+  Time 1629: Position (3, 3)
+  Time 1638: Position (3, 2)
+  Time 1647: Position (3, 1)
+  Time 1656: Position (3, 0)
+  Time 1656: Position out
+Car 282 movement history:
+  Time 1577: Position in
+  Time 1583: Position (2, 9)
+  Time 1584: Position (2, 8)
+  Time 1593: Position (2, 7)
+  Time 1602: Position (2, 6)
+  Time 1611: Position (2, 5)
+  Time 1620: Position (2, 4)
+  Time 1629: Position (2, 3)
+  Time 1638: Position (2, 2)
+  Time 1647: Position (2, 1)
+  Time 1656: Position (2, 0)
+  Time 1662: Position out
+Car 283 movement history:
+  Time 1583: Position in
+  Time 1595: Position (1, 9)
+  Time 1584: Position (1, 8)
+  Time 1593: Position (1, 7)
+  Time 1602: Position (1, 6)
+  Time 1611: Position (1, 5)
+  Time 1620: Position (1, 4)
+  Time 1629: Position (1, 3)
+  Time 1638: Position (1, 2)
+  Time 1647: Position (1, 1)
+  Time 1656: Position (1, 0)
+  Time 1668: Position out
+Car 284 movement history:
+  Time 1595: Position in
+  Time 1595: Position (3, 9)
+  Time 1602: Position (3, 8)
+  Time 1611: Position (3, 7)
+  Time 1620: Position (3, 6)
+  Time 1629: Position (3, 5)
+  Time 1638: Position (3, 4)
+  Time 1647: Position (3, 3)
+  Time 1656: Position (3, 2)
+  Time 1665: Position (3, 1)
+  Time 1674: Position (3, 0)
+  Time 1674: Position out
+Car 285 movement history:
+  Time 1596: Position in
+  Time 1602: Position (2, 9)
+  Time 1602: Position (2, 8)
+  Time 1611: Position (2, 7)
+  Time 1620: Position (2, 6)
+  Time 1629: Position (2, 5)
+  Time 1638: Position (2, 4)
+  Time 1647: Position (2, 3)
+  Time 1656: Position (2, 2)
+  Time 1665: Position (2, 1)
+  Time 1674: Position (2, 0)
+  Time 1680: Position out
+Car 286 movement history:
+  Time 1602: Position in
+  Time 1602: Position (3, 9)
+  Time 1611: Position (3, 8)
+  Time 1620: Position (3, 7)
+  Time 1629: Position (3, 6)
+  Time 1638: Position (3, 5)
+  Time 1647: Position (3, 4)
+  Time 1656: Position (3, 3)
+  Time 1665: Position (3, 2)
+  Time 1674: Position (3, 1)
+  Time 1683: Position (3, 0)
+  Time 1683: Position out
+Car 287 movement history:
+  Time 1603: Position in
+  Time 1609: Position (2, 9)
+  Time 1611: Position (2, 8)
+  Time 1620: Position (2, 7)
+  Time 1629: Position (2, 6)
+  Time 1638: Position (2, 5)
+  Time 1647: Position (2, 4)
+  Time 1656: Position (2, 3)
+  Time 1665: Position (2, 2)
+  Time 1674: Position (2, 1)
+  Time 1683: Position (2, 0)
+  Time 1689: Position out
+Car 288 movement history:
+  Time 1609: Position in
+  Time 1621: Position (1, 9)
+  Time 1611: Position (1, 8)
+  Time 1620: Position (1, 7)
+  Time 1629: Position (1, 6)
+  Time 1638: Position (1, 5)
+  Time 1647: Position (1, 4)
+  Time 1656: Position (1, 3)
+  Time 1665: Position (1, 2)
+  Time 1674: Position (1, 1)
+  Time 1683: Position (1, 0)
+  Time 1695: Position out
+Car 289 movement history:
+  Time 1621: Position in
+  Time 1621: Position (3, 9)
+  Time 1629: Position (3, 8)
+  Time 1638: Position (3, 7)
+  Time 1647: Position (3, 6)
+  Time 1656: Position (3, 5)
+  Time 1665: Position (3, 4)
+  Time 1674: Position (3, 3)
+  Time 1683: Position (3, 2)
+  Time 1692: Position (3, 1)
+  Time 1701: Position (3, 0)
+  Time 1701: Position out
+Car 290 movement history:
+  Time 1622: Position in
+  Time 1628: Position (2, 9)
+  Time 1629: Position (2, 8)
+  Time 1638: Position (2, 7)
+  Time 1647: Position (2, 6)
+  Time 1656: Position (2, 5)
+  Time 1665: Position (2, 4)
+  Time 1674: Position (2, 3)
+  Time 1683: Position (2, 2)
+  Time 1692: Position (2, 1)
+  Time 1701: Position (2, 0)
+  Time 1707: Position out
+Car 291 movement history:
+  Time 1628: Position in
+  Time 1640: Position (1, 9)
+  Time 1629: Position (1, 8)
+  Time 1638: Position (1, 7)
+  Time 1647: Position (1, 6)
+  Time 1656: Position (1, 5)
+  Time 1665: Position (1, 4)
+  Time 1674: Position (1, 3)
+  Time 1683: Position (1, 2)
+  Time 1692: Position (1, 1)
+  Time 1701: Position (1, 0)
+  Time 1713: Position out
+Car 292 movement history:
+  Time 1640: Position in
+  Time 1640: Position (3, 9)
+  Time 1647: Position (3, 8)
+  Time 1656: Position (3, 7)
+  Time 1665: Position (3, 6)
+  Time 1674: Position (3, 5)
+  Time 1683: Position (3, 4)
+  Time 1692: Position (3, 3)
+  Time 1701: Position (3, 2)
+  Time 1710: Position (3, 1)
+  Time 1719: Position (3, 0)
+  Time 1719: Position out
+Car 293 movement history:
+  Time 1641: Position in
+  Time 1647: Position (2, 9)
+  Time 1647: Position (2, 8)
+  Time 1656: Position (2, 7)
+  Time 1665: Position (2, 6)
+  Time 1674: Position (2, 5)
+  Time 1683: Position (2, 4)
+  Time 1692: Position (2, 3)
+  Time 1701: Position (2, 2)
+  Time 1710: Position (2, 1)
+  Time 1719: Position (2, 0)
+  Time 1725: Position out
+Car 294 movement history:
+  Time 1647: Position in
+  Time 1647: Position (3, 9)
+  Time 1656: Position (3, 8)
+  Time 1665: Position (3, 7)
+  Time 1674: Position (3, 6)
+  Time 1683: Position (3, 5)
+  Time 1692: Position (3, 4)
+  Time 1701: Position (3, 3)
+  Time 1710: Position (3, 2)
+  Time 1719: Position (3, 1)
+  Time 1728: Position (3, 0)
+  Time 1728: Position out
+Car 295 movement history:
+  Time 1648: Position in
+  Time 1654: Position (2, 9)
+  Time 1656: Position (2, 8)
+  Time 1665: Position (2, 7)
+  Time 1674: Position (2, 6)
+  Time 1683: Position (2, 5)
+  Time 1692: Position (2, 4)
+  Time 1701: Position (2, 3)
+  Time 1710: Position (2, 2)
+  Time 1719: Position (2, 1)
+  Time 1728: Position (2, 0)
+  Time 1734: Position out
+Car 296 movement history:
+  Time 1654: Position in
+  Time 1666: Position (1, 9)
+  Time 1656: Position (1, 8)
+  Time 1665: Position (1, 7)
+  Time 1674: Position (1, 6)
+  Time 1683: Position (1, 5)
+  Time 1692: Position (1, 4)
+  Time 1701: Position (1, 3)
+  Time 1710: Position (1, 2)
+  Time 1719: Position (1, 1)
+  Time 1728: Position (1, 0)
+  Time 1740: Position out
+Car 297 movement history:
+  Time 1666: Position in
+  Time 1666: Position (3, 9)
+  Time 1674: Position (3, 8)
+  Time 1683: Position (3, 7)
+  Time 1692: Position (3, 6)
+  Time 1701: Position (3, 5)
+  Time 1710: Position (3, 4)
+  Time 1719: Position (3, 3)
+  Time 1728: Position (3, 2)
+  Time 1737: Position (3, 1)
+  Time 1746: Position (3, 0)
+  Time 1746: Position out
+Car 298 movement history:
+  Time 1667: Position in
+  Time 1673: Position (2, 9)
+  Time 1674: Position (2, 8)
+  Time 1683: Position (2, 7)
+  Time 1692: Position (2, 6)
+  Time 1701: Position (2, 5)
+  Time 1710: Position (2, 4)
+  Time 1719: Position (2, 3)
+  Time 1728: Position (2, 2)
+  Time 1737: Position (2, 1)
+  Time 1746: Position (2, 0)
+  Time 1752: Position out
+Car 299 movement history:
+  Time 1673: Position in
+  Time 1685: Position (1, 9)
+  Time 1674: Position (1, 8)
+  Time 1683: Position (1, 7)
+  Time 1692: Position (1, 6)
+  Time 1701: Position (1, 5)
+  Time 1710: Position (1, 4)
+  Time 1719: Position (1, 3)
+  Time 1728: Position (1, 2)
+  Time 1737: Position (1, 1)
+  Time 1746: Position (1, 0)
+  Time 1758: Position out
+Car 300 movement history:
+  Time 1685: Position in
+  Time 1685: Position (3, 9)
+  Time 1692: Position (3, 8)
+  Time 1701: Position (3, 7)
+  Time 1710: Position (3, 6)
+  Time 1719: Position (3, 5)
+  Time 1728: Position (3, 4)
+  Time 1737: Position (3, 3)
+  Time 1746: Position (3, 2)
+  Time 1755: Position (3, 1)
+  Time 1764: Position (3, 0)
+  Time 1764: Position out
+Car 301 movement history:
+  Time 1686: Position in
+  Time 1692: Position (2, 9)
+  Time 1692: Position (2, 8)
+  Time 1701: Position (2, 7)
+  Time 1710: Position (2, 6)
+  Time 1719: Position (2, 5)
+  Time 1728: Position (2, 4)
+  Time 1737: Position (2, 3)
+  Time 1746: Position (2, 2)
+  Time 1755: Position (2, 1)
+  Time 1764: Position (2, 0)
+  Time 1770: Position out
+Car 302 movement history:
+  Time 1692: Position in
+  Time 1692: Position (3, 9)
+  Time 1701: Position (3, 8)
+  Time 1710: Position (3, 7)
+  Time 1719: Position (3, 6)
+  Time 1728: Position (3, 5)
+  Time 1737: Position (3, 4)
+  Time 1746: Position (3, 3)
+  Time 1755: Position (3, 2)
+  Time 1764: Position (3, 1)
+  Time 1773: Position (3, 0)
+  Time 1773: Position out
+Car 303 movement history:
+  Time 1693: Position in
+  Time 1699: Position (2, 9)
+  Time 1701: Position (2, 8)
+  Time 1710: Position (2, 7)
+  Time 1719: Position (2, 6)
+  Time 1728: Position (2, 5)
+  Time 1737: Position (2, 4)
+  Time 1746: Position (2, 3)
+  Time 1755: Position (2, 2)
+  Time 1764: Position (2, 1)
+  Time 1773: Position (2, 0)
+  Time 1779: Position out
+Car 304 movement history:
+  Time 1699: Position in
+  Time 1711: Position (1, 9)
+  Time 1701: Position (1, 8)
+  Time 1710: Position (1, 7)
+  Time 1719: Position (1, 6)
+  Time 1728: Position (1, 5)
+  Time 1737: Position (1, 4)
+  Time 1746: Position (1, 3)
+  Time 1755: Position (1, 2)
+  Time 1764: Position (1, 1)
+  Time 1773: Position (1, 0)
+  Time 1785: Position out
+Car 305 movement history:
+  Time 1711: Position in
+  Time 1711: Position (3, 9)
+  Time 1719: Position (3, 8)
+  Time 1728: Position (3, 7)
+  Time 1737: Position (3, 6)
+  Time 1746: Position (3, 5)
+  Time 1755: Position (3, 4)
+  Time 1764: Position (3, 3)
+  Time 1773: Position (3, 2)
+  Time 1782: Position (3, 1)
+  Time 1791: Position (3, 0)
+  Time 1791: Position out
+Car 306 movement history:
+  Time 1712: Position in
+  Time 1718: Position (2, 9)
+  Time 1719: Position (2, 8)
+  Time 1728: Position (2, 7)
+  Time 1737: Position (2, 6)
+  Time 1746: Position (2, 5)
+  Time 1755: Position (2, 4)
+  Time 1764: Position (2, 3)
+  Time 1773: Position (2, 2)
+  Time 1782: Position (2, 1)
+  Time 1791: Position (2, 0)
+  Time 1797: Position out
+Car 307 movement history:
+  Time 1718: Position in
+  Time 1730: Position (1, 9)
+  Time 1719: Position (1, 8)
+  Time 1728: Position (1, 7)
+  Time 1737: Position (1, 6)
+  Time 1746: Position (1, 5)
+  Time 1755: Position (1, 4)
+  Time 1764: Position (1, 3)
+  Time 1773: Position (1, 2)
+  Time 1782: Position (1, 1)
+  Time 1791: Position (1, 0)
+  Time 1803: Position out
+Car 308 movement history:
+  Time 1730: Position in
+  Time 1730: Position (3, 9)
+  Time 1737: Position (3, 8)
+  Time 1746: Position (3, 7)
+  Time 1755: Position (3, 6)
+  Time 1764: Position (3, 5)
+  Time 1773: Position (3, 4)
+  Time 1782: Position (3, 3)
+  Time 1791: Position (3, 2)
+  Time 1800: Position (3, 1)
+  Time 1809: Position (3, 0)
+  Time 1809: Position out
+Car 309 movement history:
+  Time 1731: Position in
+  Time 1737: Position (2, 9)
+  Time 1737: Position (2, 8)
+  Time 1746: Position (2, 7)
+  Time 1755: Position (2, 6)
+  Time 1764: Position (2, 5)
+  Time 1773: Position (2, 4)
+  Time 1782: Position (2, 3)
+  Time 1791: Position (2, 2)
+  Time 1800: Position (2, 1)
+  Time 1809: Position (2, 0)
+  Time 1815: Position out
+Car 310 movement history:
+  Time 1737: Position in
+  Time 1737: Position (3, 9)
+  Time 1746: Position (3, 8)
+  Time 1755: Position (3, 7)
+  Time 1764: Position (3, 6)
+  Time 1773: Position (3, 5)
+  Time 1782: Position (3, 4)
+  Time 1791: Position (3, 3)
+  Time 1800: Position (3, 2)
+  Time 1809: Position (3, 1)
+  Time 1818: Position (3, 0)
+  Time 1818: Position out
+Car 311 movement history:
+  Time 1738: Position in
+  Time 1744: Position (2, 9)
+  Time 1746: Position (2, 8)
+  Time 1755: Position (2, 7)
+  Time 1764: Position (2, 6)
+  Time 1773: Position (2, 5)
+  Time 1782: Position (2, 4)
+  Time 1791: Position (2, 3)
+  Time 1800: Position (2, 2)
+  Time 1809: Position (2, 1)
+  Time 1818: Position (2, 0)
+  Time 1824: Position out
+Car 312 movement history:
+  Time 1744: Position in
+  Time 1756: Position (1, 9)
+  Time 1746: Position (1, 8)
+  Time 1755: Position (1, 7)
+  Time 1764: Position (1, 6)
+  Time 1773: Position (1, 5)
+  Time 1782: Position (1, 4)
+  Time 1791: Position (1, 3)
+  Time 1800: Position (1, 2)
+  Time 1809: Position (1, 1)
+  Time 1818: Position (1, 0)
+  Time 1830: Position out
+Car 313 movement history:
+  Time 1756: Position in
+  Time 1756: Position (3, 9)
+  Time 1764: Position (3, 8)
+  Time 1773: Position (3, 7)
+  Time 1782: Position (3, 6)
+  Time 1791: Position (3, 5)
+  Time 1800: Position (3, 4)
+  Time 1809: Position (3, 3)
+  Time 1818: Position (3, 2)
+  Time 1827: Position (3, 1)
+  Time 1836: Position (3, 0)
+  Time 1836: Position out
+Car 314 movement history:
+  Time 1757: Position in
+  Time 1763: Position (2, 9)
+  Time 1764: Position (2, 8)
+  Time 1773: Position (2, 7)
+  Time 1782: Position (2, 6)
+  Time 1791: Position (2, 5)
+  Time 1800: Position (2, 4)
+  Time 1809: Position (2, 3)
+  Time 1818: Position (2, 2)
+  Time 1827: Position (2, 1)
+  Time 1836: Position (2, 0)
+  Time 1842: Position out
+Car 315 movement history:
+  Time 1763: Position in
+  Time 1775: Position (1, 9)
+  Time 1764: Position (1, 8)
+  Time 1773: Position (1, 7)
+  Time 1782: Position (1, 6)
+  Time 1791: Position (1, 5)
+  Time 1800: Position (1, 4)
+  Time 1809: Position (1, 3)
+  Time 1818: Position (1, 2)
+  Time 1827: Position (1, 1)
+  Time 1836: Position (1, 0)
+  Time 1848: Position out
+Car 316 movement history:
+  Time 1775: Position in
+  Time 1775: Position (3, 9)
+  Time 1782: Position (3, 8)
+  Time 1791: Position (3, 7)
+  Time 1800: Position (3, 6)
+  Time 1809: Position (3, 5)
+  Time 1818: Position (3, 4)
+  Time 1827: Position (3, 3)
+  Time 1836: Position (3, 2)
+  Time 1845: Position (3, 1)
+  Time 1854: Position (3, 0)
+  Time 1854: Position out
+Car 317 movement history:
+  Time 1776: Position in
+  Time 1782: Position (2, 9)
+  Time 1782: Position (2, 8)
+  Time 1791: Position (2, 7)
+  Time 1800: Position (2, 6)
+  Time 1809: Position (2, 5)
+  Time 1818: Position (2, 4)
+  Time 1827: Position (2, 3)
+  Time 1836: Position (2, 2)
+  Time 1845: Position (2, 1)
+  Time 1854: Position (2, 0)
+  Time 1860: Position out
+Car 318 movement history:
+  Time 1782: Position in
+  Time 1782: Position (3, 9)
+  Time 1791: Position (3, 8)
+  Time 1800: Position (3, 7)
+  Time 1809: Position (3, 6)
+  Time 1818: Position (3, 5)
+  Time 1827: Position (3, 4)
+  Time 1836: Position (3, 3)
+  Time 1845: Position (3, 2)
+  Time 1854: Position (3, 1)
+  Time 1863: Position (3, 0)
+  Time 1863: Position out
